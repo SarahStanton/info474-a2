@@ -1,0 +1,1888 @@
+Country,Region,value,variable,year
+Switzerland,Western Europe,1,Happiness Rank,2015
+Iceland,Western Europe,2,Happiness Rank,2015
+Denmark,Western Europe,3,Happiness Rank,2015
+Norway,Western Europe,4,Happiness Rank,2015
+Canada,North America,5,Happiness Rank,2015
+Finland,Western Europe,6,Happiness Rank,2015
+Netherlands,Western Europe,7,Happiness Rank,2015
+Sweden,Western Europe,8,Happiness Rank,2015
+New Zealand,Australia and New Zealand,9,Happiness Rank,2015
+Australia,Australia and New Zealand,10,Happiness Rank,2015
+Israel,Middle East and Northern Africa,11,Happiness Rank,2015
+Costa Rica,Latin America and Caribbean,12,Happiness Rank,2015
+Austria,Western Europe,13,Happiness Rank,2015
+Mexico,Latin America and Caribbean,14,Happiness Rank,2015
+United States,North America,15,Happiness Rank,2015
+Brazil,Latin America and Caribbean,16,Happiness Rank,2015
+Luxembourg,Western Europe,17,Happiness Rank,2015
+Ireland,Western Europe,18,Happiness Rank,2015
+Belgium,Western Europe,19,Happiness Rank,2015
+United Arab Emirates,Middle East and Northern Africa,20,Happiness Rank,2015
+United Kingdom,Western Europe,21,Happiness Rank,2015
+Oman,Middle East and Northern Africa,22,Happiness Rank,2015
+Venezuela,Latin America and Caribbean,23,Happiness Rank,2015
+Singapore,Southeastern Asia,24,Happiness Rank,2015
+Panama,Latin America and Caribbean,25,Happiness Rank,2015
+Germany,Western Europe,26,Happiness Rank,2015
+Chile,Latin America and Caribbean,27,Happiness Rank,2015
+Qatar,Middle East and Northern Africa,28,Happiness Rank,2015
+France,Western Europe,29,Happiness Rank,2015
+Argentina,Latin America and Caribbean,30,Happiness Rank,2015
+Czech Republic,Central and Eastern Europe,31,Happiness Rank,2015
+Uruguay,Latin America and Caribbean,32,Happiness Rank,2015
+Colombia,Latin America and Caribbean,33,Happiness Rank,2015
+Thailand,Southeastern Asia,34,Happiness Rank,2015
+Saudi Arabia,Middle East and Northern Africa,35,Happiness Rank,2015
+Spain,Western Europe,36,Happiness Rank,2015
+Malta,Western Europe,37,Happiness Rank,2015
+Taiwan,Eastern Asia,38,Happiness Rank,2015
+Kuwait,Middle East and Northern Africa,39,Happiness Rank,2015
+Suriname,Latin America and Caribbean,40,Happiness Rank,2015
+Trinidad and Tobago,Latin America and Caribbean,41,Happiness Rank,2015
+El Salvador,Latin America and Caribbean,42,Happiness Rank,2015
+Guatemala,Latin America and Caribbean,43,Happiness Rank,2015
+Uzbekistan,Central and Eastern Europe,44,Happiness Rank,2015
+Slovakia,Central and Eastern Europe,45,Happiness Rank,2015
+Japan,Eastern Asia,46,Happiness Rank,2015
+South Korea,Eastern Asia,47,Happiness Rank,2015
+Ecuador,Latin America and Caribbean,48,Happiness Rank,2015
+Bahrain,Middle East and Northern Africa,49,Happiness Rank,2015
+Italy,Western Europe,50,Happiness Rank,2015
+Bolivia,Latin America and Caribbean,51,Happiness Rank,2015
+Moldova,Central and Eastern Europe,52,Happiness Rank,2015
+Paraguay,Latin America and Caribbean,53,Happiness Rank,2015
+Kazakhstan,Central and Eastern Europe,54,Happiness Rank,2015
+Slovenia,Central and Eastern Europe,55,Happiness Rank,2015
+Lithuania,Central and Eastern Europe,56,Happiness Rank,2015
+Nicaragua,Latin America and Caribbean,57,Happiness Rank,2015
+Peru,Latin America and Caribbean,58,Happiness Rank,2015
+Belarus,Central and Eastern Europe,59,Happiness Rank,2015
+Poland,Central and Eastern Europe,60,Happiness Rank,2015
+Malaysia,Southeastern Asia,61,Happiness Rank,2015
+Croatia,Central and Eastern Europe,62,Happiness Rank,2015
+Libya,Middle East and Northern Africa,63,Happiness Rank,2015
+Russia,Central and Eastern Europe,64,Happiness Rank,2015
+Jamaica,Latin America and Caribbean,65,Happiness Rank,2015
+North Cyprus,Western Europe,66,Happiness Rank,2015
+Cyprus,Western Europe,67,Happiness Rank,2015
+Algeria,Middle East and Northern Africa,68,Happiness Rank,2015
+Kosovo,Central and Eastern Europe,69,Happiness Rank,2015
+Turkmenistan,Central and Eastern Europe,70,Happiness Rank,2015
+Mauritius,Sub-Saharan Africa,71,Happiness Rank,2015
+Hong Kong,Eastern Asia,72,Happiness Rank,2015
+Estonia,Central and Eastern Europe,73,Happiness Rank,2015
+Indonesia,Southeastern Asia,74,Happiness Rank,2015
+Vietnam,Southeastern Asia,75,Happiness Rank,2015
+Turkey,Middle East and Northern Africa,76,Happiness Rank,2015
+Kyrgyzstan,Central and Eastern Europe,77,Happiness Rank,2015
+Nigeria,Sub-Saharan Africa,78,Happiness Rank,2015
+Bhutan,Southern Asia,79,Happiness Rank,2015
+Azerbaijan,Central and Eastern Europe,80,Happiness Rank,2015
+Pakistan,Southern Asia,81,Happiness Rank,2015
+Jordan,Middle East and Northern Africa,82,Happiness Rank,2015
+Montenegro,Central and Eastern Europe,82,Happiness Rank,2015
+China,Eastern Asia,84,Happiness Rank,2015
+Zambia,Sub-Saharan Africa,85,Happiness Rank,2015
+Romania,Central and Eastern Europe,86,Happiness Rank,2015
+Serbia,Central and Eastern Europe,87,Happiness Rank,2015
+Portugal,Western Europe,88,Happiness Rank,2015
+Latvia,Central and Eastern Europe,89,Happiness Rank,2015
+Philippines,Southeastern Asia,90,Happiness Rank,2015
+Somaliland region,Sub-Saharan Africa,91,Happiness Rank,2015
+Morocco,Middle East and Northern Africa,92,Happiness Rank,2015
+Macedonia,Central and Eastern Europe,93,Happiness Rank,2015
+Mozambique,Sub-Saharan Africa,94,Happiness Rank,2015
+Albania,Central and Eastern Europe,95,Happiness Rank,2015
+Bosnia and Herzegovina,Central and Eastern Europe,96,Happiness Rank,2015
+Lesotho,Sub-Saharan Africa,97,Happiness Rank,2015
+Dominican Republic,Latin America and Caribbean,98,Happiness Rank,2015
+Laos,Southeastern Asia,99,Happiness Rank,2015
+Mongolia,Eastern Asia,100,Happiness Rank,2015
+Swaziland,Sub-Saharan Africa,101,Happiness Rank,2015
+Greece,Western Europe,102,Happiness Rank,2015
+Lebanon,Middle East and Northern Africa,103,Happiness Rank,2015
+Hungary,Central and Eastern Europe,104,Happiness Rank,2015
+Honduras,Latin America and Caribbean,105,Happiness Rank,2015
+Tajikistan,Central and Eastern Europe,106,Happiness Rank,2015
+Tunisia,Middle East and Northern Africa,107,Happiness Rank,2015
+Palestinian Territories,Middle East and Northern Africa,108,Happiness Rank,2015
+Bangladesh,Southern Asia,109,Happiness Rank,2015
+Iran,Middle East and Northern Africa,110,Happiness Rank,2015
+Ukraine,Central and Eastern Europe,111,Happiness Rank,2015
+Iraq,Middle East and Northern Africa,112,Happiness Rank,2015
+South Africa,Sub-Saharan Africa,113,Happiness Rank,2015
+Ghana,Sub-Saharan Africa,114,Happiness Rank,2015
+Zimbabwe,Sub-Saharan Africa,115,Happiness Rank,2015
+Liberia,Sub-Saharan Africa,116,Happiness Rank,2015
+India,Southern Asia,117,Happiness Rank,2015
+Sudan,Sub-Saharan Africa,118,Happiness Rank,2015
+Haiti,Latin America and Caribbean,119,Happiness Rank,2015
+Congo (Kinshasa),Sub-Saharan Africa,120,Happiness Rank,2015
+Nepal,Southern Asia,121,Happiness Rank,2015
+Ethiopia,Sub-Saharan Africa,122,Happiness Rank,2015
+Sierra Leone,Sub-Saharan Africa,123,Happiness Rank,2015
+Mauritania,Sub-Saharan Africa,124,Happiness Rank,2015
+Kenya,Sub-Saharan Africa,125,Happiness Rank,2015
+Djibouti,Sub-Saharan Africa,126,Happiness Rank,2015
+Armenia,Central and Eastern Europe,127,Happiness Rank,2015
+Botswana,Sub-Saharan Africa,128,Happiness Rank,2015
+Myanmar,Southeastern Asia,129,Happiness Rank,2015
+Georgia,Central and Eastern Europe,130,Happiness Rank,2015
+Malawi,Sub-Saharan Africa,131,Happiness Rank,2015
+Sri Lanka,Southern Asia,132,Happiness Rank,2015
+Cameroon,Sub-Saharan Africa,133,Happiness Rank,2015
+Bulgaria,Central and Eastern Europe,134,Happiness Rank,2015
+Egypt,Middle East and Northern Africa,135,Happiness Rank,2015
+Yemen,Middle East and Northern Africa,136,Happiness Rank,2015
+Angola,Sub-Saharan Africa,137,Happiness Rank,2015
+Mali,Sub-Saharan Africa,138,Happiness Rank,2015
+Congo (Brazzaville),Sub-Saharan Africa,139,Happiness Rank,2015
+Comoros,Sub-Saharan Africa,140,Happiness Rank,2015
+Uganda,Sub-Saharan Africa,141,Happiness Rank,2015
+Senegal,Sub-Saharan Africa,142,Happiness Rank,2015
+Gabon,Sub-Saharan Africa,143,Happiness Rank,2015
+Niger,Sub-Saharan Africa,144,Happiness Rank,2015
+Cambodia,Southeastern Asia,145,Happiness Rank,2015
+Tanzania,Sub-Saharan Africa,146,Happiness Rank,2015
+Madagascar,Sub-Saharan Africa,147,Happiness Rank,2015
+Chad,Sub-Saharan Africa,149,Happiness Rank,2015
+Guinea,Sub-Saharan Africa,150,Happiness Rank,2015
+Ivory Coast,Sub-Saharan Africa,151,Happiness Rank,2015
+Burkina Faso,Sub-Saharan Africa,152,Happiness Rank,2015
+Afghanistan,Southern Asia,153,Happiness Rank,2015
+Rwanda,Sub-Saharan Africa,154,Happiness Rank,2015
+Benin,Sub-Saharan Africa,155,Happiness Rank,2015
+Syria,Middle East and Northern Africa,156,Happiness Rank,2015
+Burundi,Sub-Saharan Africa,157,Happiness Rank,2015
+Togo,Sub-Saharan Africa,158,Happiness Rank,2015
+Denmark,Western Europe,1,Happiness Rank,2016
+Switzerland,Western Europe,2,Happiness Rank,2016
+Iceland,Western Europe,3,Happiness Rank,2016
+Norway,Western Europe,4,Happiness Rank,2016
+Finland,Western Europe,5,Happiness Rank,2016
+Canada,North America,6,Happiness Rank,2016
+Netherlands,Western Europe,7,Happiness Rank,2016
+New Zealand,Australia and New Zealand,8,Happiness Rank,2016
+Australia,Australia and New Zealand,9,Happiness Rank,2016
+Sweden,Western Europe,10,Happiness Rank,2016
+Israel,Middle East and Northern Africa,11,Happiness Rank,2016
+Austria,Western Europe,12,Happiness Rank,2016
+United States,North America,13,Happiness Rank,2016
+Costa Rica,Latin America and Caribbean,14,Happiness Rank,2016
+Puerto Rico,Latin America and Caribbean,15,Happiness Rank,2016
+Germany,Western Europe,16,Happiness Rank,2016
+Brazil,Latin America and Caribbean,17,Happiness Rank,2016
+Belgium,Western Europe,18,Happiness Rank,2016
+Ireland,Western Europe,19,Happiness Rank,2016
+Luxembourg,Western Europe,20,Happiness Rank,2016
+Mexico,Latin America and Caribbean,21,Happiness Rank,2016
+Singapore,Southeastern Asia,22,Happiness Rank,2016
+United Kingdom,Western Europe,23,Happiness Rank,2016
+Chile,Latin America and Caribbean,24,Happiness Rank,2016
+Panama,Latin America and Caribbean,25,Happiness Rank,2016
+Argentina,Latin America and Caribbean,26,Happiness Rank,2016
+Czech Republic,Central and Eastern Europe,27,Happiness Rank,2016
+United Arab Emirates,Middle East and Northern Africa,28,Happiness Rank,2016
+Uruguay,Latin America and Caribbean,29,Happiness Rank,2016
+Malta,Western Europe,30,Happiness Rank,2016
+Colombia,Latin America and Caribbean,31,Happiness Rank,2016
+France,Western Europe,32,Happiness Rank,2016
+Thailand,Southeastern Asia,33,Happiness Rank,2016
+Saudi Arabia,Middle East and Northern Africa,34,Happiness Rank,2016
+Taiwan,Eastern Asia,34,Happiness Rank,2016
+Qatar,Middle East and Northern Africa,36,Happiness Rank,2016
+Spain,Western Europe,37,Happiness Rank,2016
+Algeria,Middle East and Northern Africa,38,Happiness Rank,2016
+Guatemala,Latin America and Caribbean,39,Happiness Rank,2016
+Suriname,Latin America and Caribbean,40,Happiness Rank,2016
+Kuwait,Middle East and Northern Africa,41,Happiness Rank,2016
+Bahrain,Middle East and Northern Africa,42,Happiness Rank,2016
+Trinidad and Tobago,Latin America and Caribbean,43,Happiness Rank,2016
+Venezuela,Latin America and Caribbean,44,Happiness Rank,2016
+Slovakia,Central and Eastern Europe,45,Happiness Rank,2016
+El Salvador,Latin America and Caribbean,46,Happiness Rank,2016
+Malaysia,Southeastern Asia,47,Happiness Rank,2016
+Nicaragua,Latin America and Caribbean,48,Happiness Rank,2016
+Uzbekistan,Central and Eastern Europe,49,Happiness Rank,2016
+Italy,Western Europe,50,Happiness Rank,2016
+Ecuador,Latin America and Caribbean,51,Happiness Rank,2016
+Belize,Latin America and Caribbean,52,Happiness Rank,2016
+Japan,Eastern Asia,53,Happiness Rank,2016
+Kazakhstan,Central and Eastern Europe,54,Happiness Rank,2016
+Moldova,Central and Eastern Europe,55,Happiness Rank,2016
+Russia,Central and Eastern Europe,56,Happiness Rank,2016
+Poland,Central and Eastern Europe,57,Happiness Rank,2016
+South Korea,Eastern Asia,57,Happiness Rank,2016
+Bolivia,Latin America and Caribbean,59,Happiness Rank,2016
+Lithuania,Central and Eastern Europe,60,Happiness Rank,2016
+Belarus,Central and Eastern Europe,61,Happiness Rank,2016
+North Cyprus,Western Europe,62,Happiness Rank,2016
+Slovenia,Central and Eastern Europe,63,Happiness Rank,2016
+Peru,Latin America and Caribbean,64,Happiness Rank,2016
+Turkmenistan,Central and Eastern Europe,65,Happiness Rank,2016
+Mauritius,Sub-Saharan Africa,66,Happiness Rank,2016
+Libya,Middle East and Northern Africa,67,Happiness Rank,2016
+Latvia,Central and Eastern Europe,68,Happiness Rank,2016
+Cyprus,Western Europe,69,Happiness Rank,2016
+Paraguay,Latin America and Caribbean,70,Happiness Rank,2016
+Romania,Central and Eastern Europe,71,Happiness Rank,2016
+Estonia,Central and Eastern Europe,72,Happiness Rank,2016
+Jamaica,Latin America and Caribbean,73,Happiness Rank,2016
+Croatia,Central and Eastern Europe,74,Happiness Rank,2016
+Hong Kong,Eastern Asia,75,Happiness Rank,2016
+Somalia,Sub-Saharan Africa,76,Happiness Rank,2016
+Kosovo,Central and Eastern Europe,77,Happiness Rank,2016
+Turkey,Middle East and Northern Africa,78,Happiness Rank,2016
+Indonesia,Southeastern Asia,79,Happiness Rank,2016
+Jordan,Middle East and Northern Africa,80,Happiness Rank,2016
+Azerbaijan,Central and Eastern Europe,81,Happiness Rank,2016
+Philippines,Southeastern Asia,82,Happiness Rank,2016
+China,Eastern Asia,83,Happiness Rank,2016
+Bhutan,Southern Asia,84,Happiness Rank,2016
+Kyrgyzstan,Central and Eastern Europe,85,Happiness Rank,2016
+Serbia,Central and Eastern Europe,86,Happiness Rank,2016
+Bosnia and Herzegovina,Central and Eastern Europe,87,Happiness Rank,2016
+Montenegro,Central and Eastern Europe,88,Happiness Rank,2016
+Dominican Republic,Latin America and Caribbean,89,Happiness Rank,2016
+Morocco,Middle East and Northern Africa,90,Happiness Rank,2016
+Hungary,Central and Eastern Europe,91,Happiness Rank,2016
+Pakistan,Southern Asia,92,Happiness Rank,2016
+Lebanon,Middle East and Northern Africa,93,Happiness Rank,2016
+Portugal,Western Europe,94,Happiness Rank,2016
+Macedonia,Central and Eastern Europe,95,Happiness Rank,2016
+Vietnam,Southeastern Asia,96,Happiness Rank,2016
+Somaliland Region,Sub-Saharan Africa,97,Happiness Rank,2016
+Tunisia,Middle East and Northern Africa,98,Happiness Rank,2016
+Greece,Western Europe,99,Happiness Rank,2016
+Tajikistan,Central and Eastern Europe,100,Happiness Rank,2016
+Mongolia,Eastern Asia,101,Happiness Rank,2016
+Laos,Southeastern Asia,102,Happiness Rank,2016
+Nigeria,Sub-Saharan Africa,103,Happiness Rank,2016
+Honduras,Latin America and Caribbean,104,Happiness Rank,2016
+Iran,Middle East and Northern Africa,105,Happiness Rank,2016
+Zambia,Sub-Saharan Africa,106,Happiness Rank,2016
+Nepal,Southern Asia,107,Happiness Rank,2016
+Palestinian Territories,Middle East and Northern Africa,108,Happiness Rank,2016
+Albania,Central and Eastern Europe,109,Happiness Rank,2016
+Bangladesh,Southern Asia,110,Happiness Rank,2016
+Sierra Leone,Sub-Saharan Africa,111,Happiness Rank,2016
+Iraq,Middle East and Northern Africa,112,Happiness Rank,2016
+Namibia,Sub-Saharan Africa,113,Happiness Rank,2016
+Cameroon,Sub-Saharan Africa,114,Happiness Rank,2016
+Ethiopia,Sub-Saharan Africa,115,Happiness Rank,2016
+South Africa,Sub-Saharan Africa,116,Happiness Rank,2016
+Sri Lanka,Southern Asia,117,Happiness Rank,2016
+India,Southern Asia,118,Happiness Rank,2016
+Myanmar,Southeastern Asia,119,Happiness Rank,2016
+Egypt,Middle East and Northern Africa,120,Happiness Rank,2016
+Armenia,Central and Eastern Europe,121,Happiness Rank,2016
+Kenya,Sub-Saharan Africa,122,Happiness Rank,2016
+Ukraine,Central and Eastern Europe,123,Happiness Rank,2016
+Ghana,Sub-Saharan Africa,124,Happiness Rank,2016
+Congo (Kinshasa),Sub-Saharan Africa,125,Happiness Rank,2016
+Georgia,Central and Eastern Europe,126,Happiness Rank,2016
+Congo (Brazzaville),Sub-Saharan Africa,127,Happiness Rank,2016
+Senegal,Sub-Saharan Africa,128,Happiness Rank,2016
+Bulgaria,Central and Eastern Europe,129,Happiness Rank,2016
+Mauritania,Sub-Saharan Africa,130,Happiness Rank,2016
+Zimbabwe,Sub-Saharan Africa,131,Happiness Rank,2016
+Malawi,Sub-Saharan Africa,132,Happiness Rank,2016
+Sudan,Sub-Saharan Africa,133,Happiness Rank,2016
+Gabon,Sub-Saharan Africa,134,Happiness Rank,2016
+Mali,Sub-Saharan Africa,135,Happiness Rank,2016
+Haiti,Latin America and Caribbean,136,Happiness Rank,2016
+Botswana,Sub-Saharan Africa,137,Happiness Rank,2016
+Comoros,Sub-Saharan Africa,138,Happiness Rank,2016
+Ivory Coast,Sub-Saharan Africa,139,Happiness Rank,2016
+Cambodia,Southeastern Asia,140,Happiness Rank,2016
+Angola,Sub-Saharan Africa,141,Happiness Rank,2016
+Niger,Sub-Saharan Africa,142,Happiness Rank,2016
+South Sudan,Sub-Saharan Africa,143,Happiness Rank,2016
+Chad,Sub-Saharan Africa,144,Happiness Rank,2016
+Burkina Faso,Sub-Saharan Africa,145,Happiness Rank,2016
+Uganda,Sub-Saharan Africa,145,Happiness Rank,2016
+Yemen,Middle East and Northern Africa,147,Happiness Rank,2016
+Madagascar,Sub-Saharan Africa,148,Happiness Rank,2016
+Tanzania,Sub-Saharan Africa,149,Happiness Rank,2016
+Liberia,Sub-Saharan Africa,150,Happiness Rank,2016
+Guinea,Sub-Saharan Africa,151,Happiness Rank,2016
+Rwanda,Sub-Saharan Africa,152,Happiness Rank,2016
+Benin,Sub-Saharan Africa,153,Happiness Rank,2016
+Afghanistan,Southern Asia,154,Happiness Rank,2016
+Togo,Sub-Saharan Africa,155,Happiness Rank,2016
+Syria,Middle East and Northern Africa,156,Happiness Rank,2016
+Burundi,Sub-Saharan Africa,157,Happiness Rank,2016
+Switzerland,Western Europe,7.587,Happiness Score,2015
+Iceland,Western Europe,7.561,Happiness Score,2015
+Denmark,Western Europe,7.527,Happiness Score,2015
+Norway,Western Europe,7.522,Happiness Score,2015
+Canada,North America,7.427,Happiness Score,2015
+Finland,Western Europe,7.406,Happiness Score,2015
+Netherlands,Western Europe,7.378,Happiness Score,2015
+Sweden,Western Europe,7.364,Happiness Score,2015
+New Zealand,Australia and New Zealand,7.286,Happiness Score,2015
+Australia,Australia and New Zealand,7.284,Happiness Score,2015
+Israel,Middle East and Northern Africa,7.278,Happiness Score,2015
+Costa Rica,Latin America and Caribbean,7.226,Happiness Score,2015
+Austria,Western Europe,7.2,Happiness Score,2015
+Mexico,Latin America and Caribbean,7.187,Happiness Score,2015
+United States,North America,7.119,Happiness Score,2015
+Brazil,Latin America and Caribbean,6.983,Happiness Score,2015
+Luxembourg,Western Europe,6.946,Happiness Score,2015
+Ireland,Western Europe,6.94,Happiness Score,2015
+Belgium,Western Europe,6.937,Happiness Score,2015
+United Arab Emirates,Middle East and Northern Africa,6.901,Happiness Score,2015
+United Kingdom,Western Europe,6.867,Happiness Score,2015
+Oman,Middle East and Northern Africa,6.853,Happiness Score,2015
+Venezuela,Latin America and Caribbean,6.81,Happiness Score,2015
+Singapore,Southeastern Asia,6.798,Happiness Score,2015
+Panama,Latin America and Caribbean,6.786,Happiness Score,2015
+Germany,Western Europe,6.75,Happiness Score,2015
+Chile,Latin America and Caribbean,6.67,Happiness Score,2015
+Qatar,Middle East and Northern Africa,6.611,Happiness Score,2015
+France,Western Europe,6.575,Happiness Score,2015
+Argentina,Latin America and Caribbean,6.574,Happiness Score,2015
+Czech Republic,Central and Eastern Europe,6.505,Happiness Score,2015
+Uruguay,Latin America and Caribbean,6.485,Happiness Score,2015
+Colombia,Latin America and Caribbean,6.477,Happiness Score,2015
+Thailand,Southeastern Asia,6.455,Happiness Score,2015
+Saudi Arabia,Middle East and Northern Africa,6.411,Happiness Score,2015
+Spain,Western Europe,6.329,Happiness Score,2015
+Malta,Western Europe,6.302,Happiness Score,2015
+Taiwan,Eastern Asia,6.298,Happiness Score,2015
+Kuwait,Middle East and Northern Africa,6.295,Happiness Score,2015
+Suriname,Latin America and Caribbean,6.269,Happiness Score,2015
+Trinidad and Tobago,Latin America and Caribbean,6.168,Happiness Score,2015
+El Salvador,Latin America and Caribbean,6.13,Happiness Score,2015
+Guatemala,Latin America and Caribbean,6.123,Happiness Score,2015
+Uzbekistan,Central and Eastern Europe,6.003,Happiness Score,2015
+Slovakia,Central and Eastern Europe,5.995,Happiness Score,2015
+Japan,Eastern Asia,5.987,Happiness Score,2015
+South Korea,Eastern Asia,5.984,Happiness Score,2015
+Ecuador,Latin America and Caribbean,5.975,Happiness Score,2015
+Bahrain,Middle East and Northern Africa,5.96,Happiness Score,2015
+Italy,Western Europe,5.948,Happiness Score,2015
+Bolivia,Latin America and Caribbean,5.89,Happiness Score,2015
+Moldova,Central and Eastern Europe,5.889,Happiness Score,2015
+Paraguay,Latin America and Caribbean,5.878,Happiness Score,2015
+Kazakhstan,Central and Eastern Europe,5.855,Happiness Score,2015
+Slovenia,Central and Eastern Europe,5.848,Happiness Score,2015
+Lithuania,Central and Eastern Europe,5.833,Happiness Score,2015
+Nicaragua,Latin America and Caribbean,5.828,Happiness Score,2015
+Peru,Latin America and Caribbean,5.824,Happiness Score,2015
+Belarus,Central and Eastern Europe,5.813,Happiness Score,2015
+Poland,Central and Eastern Europe,5.791,Happiness Score,2015
+Malaysia,Southeastern Asia,5.77,Happiness Score,2015
+Croatia,Central and Eastern Europe,5.759,Happiness Score,2015
+Libya,Middle East and Northern Africa,5.754,Happiness Score,2015
+Russia,Central and Eastern Europe,5.716,Happiness Score,2015
+Jamaica,Latin America and Caribbean,5.709,Happiness Score,2015
+North Cyprus,Western Europe,5.695,Happiness Score,2015
+Cyprus,Western Europe,5.689,Happiness Score,2015
+Algeria,Middle East and Northern Africa,5.605,Happiness Score,2015
+Kosovo,Central and Eastern Europe,5.589,Happiness Score,2015
+Turkmenistan,Central and Eastern Europe,5.548,Happiness Score,2015
+Mauritius,Sub-Saharan Africa,5.477,Happiness Score,2015
+Hong Kong,Eastern Asia,5.474,Happiness Score,2015
+Estonia,Central and Eastern Europe,5.429,Happiness Score,2015
+Indonesia,Southeastern Asia,5.399,Happiness Score,2015
+Vietnam,Southeastern Asia,5.36,Happiness Score,2015
+Turkey,Middle East and Northern Africa,5.332,Happiness Score,2015
+Kyrgyzstan,Central and Eastern Europe,5.286,Happiness Score,2015
+Nigeria,Sub-Saharan Africa,5.268,Happiness Score,2015
+Bhutan,Southern Asia,5.253,Happiness Score,2015
+Azerbaijan,Central and Eastern Europe,5.212,Happiness Score,2015
+Pakistan,Southern Asia,5.194,Happiness Score,2015
+Jordan,Middle East and Northern Africa,5.192,Happiness Score,2015
+Montenegro,Central and Eastern Europe,5.192,Happiness Score,2015
+China,Eastern Asia,5.14,Happiness Score,2015
+Zambia,Sub-Saharan Africa,5.129,Happiness Score,2015
+Romania,Central and Eastern Europe,5.124,Happiness Score,2015
+Serbia,Central and Eastern Europe,5.123,Happiness Score,2015
+Portugal,Western Europe,5.102,Happiness Score,2015
+Latvia,Central and Eastern Europe,5.098,Happiness Score,2015
+Philippines,Southeastern Asia,5.073,Happiness Score,2015
+Somaliland region,Sub-Saharan Africa,5.057,Happiness Score,2015
+Morocco,Middle East and Northern Africa,5.013,Happiness Score,2015
+Macedonia,Central and Eastern Europe,5.007,Happiness Score,2015
+Mozambique,Sub-Saharan Africa,4.971,Happiness Score,2015
+Albania,Central and Eastern Europe,4.959,Happiness Score,2015
+Bosnia and Herzegovina,Central and Eastern Europe,4.949,Happiness Score,2015
+Lesotho,Sub-Saharan Africa,4.898,Happiness Score,2015
+Dominican Republic,Latin America and Caribbean,4.885,Happiness Score,2015
+Laos,Southeastern Asia,4.876,Happiness Score,2015
+Mongolia,Eastern Asia,4.874,Happiness Score,2015
+Swaziland,Sub-Saharan Africa,4.867,Happiness Score,2015
+Greece,Western Europe,4.857,Happiness Score,2015
+Lebanon,Middle East and Northern Africa,4.839,Happiness Score,2015
+Hungary,Central and Eastern Europe,4.8,Happiness Score,2015
+Honduras,Latin America and Caribbean,4.788,Happiness Score,2015
+Tajikistan,Central and Eastern Europe,4.786,Happiness Score,2015
+Tunisia,Middle East and Northern Africa,4.739,Happiness Score,2015
+Palestinian Territories,Middle East and Northern Africa,4.715,Happiness Score,2015
+Bangladesh,Southern Asia,4.694,Happiness Score,2015
+Iran,Middle East and Northern Africa,4.686,Happiness Score,2015
+Ukraine,Central and Eastern Europe,4.681,Happiness Score,2015
+Iraq,Middle East and Northern Africa,4.677,Happiness Score,2015
+South Africa,Sub-Saharan Africa,4.642,Happiness Score,2015
+Ghana,Sub-Saharan Africa,4.633,Happiness Score,2015
+Zimbabwe,Sub-Saharan Africa,4.61,Happiness Score,2015
+Liberia,Sub-Saharan Africa,4.571,Happiness Score,2015
+India,Southern Asia,4.565,Happiness Score,2015
+Sudan,Sub-Saharan Africa,4.55,Happiness Score,2015
+Haiti,Latin America and Caribbean,4.518,Happiness Score,2015
+Congo (Kinshasa),Sub-Saharan Africa,4.517,Happiness Score,2015
+Nepal,Southern Asia,4.514,Happiness Score,2015
+Ethiopia,Sub-Saharan Africa,4.512,Happiness Score,2015
+Sierra Leone,Sub-Saharan Africa,4.507,Happiness Score,2015
+Mauritania,Sub-Saharan Africa,4.436,Happiness Score,2015
+Kenya,Sub-Saharan Africa,4.419,Happiness Score,2015
+Djibouti,Sub-Saharan Africa,4.369,Happiness Score,2015
+Armenia,Central and Eastern Europe,4.35,Happiness Score,2015
+Botswana,Sub-Saharan Africa,4.332,Happiness Score,2015
+Myanmar,Southeastern Asia,4.307,Happiness Score,2015
+Georgia,Central and Eastern Europe,4.297,Happiness Score,2015
+Malawi,Sub-Saharan Africa,4.292,Happiness Score,2015
+Sri Lanka,Southern Asia,4.271,Happiness Score,2015
+Cameroon,Sub-Saharan Africa,4.252,Happiness Score,2015
+Bulgaria,Central and Eastern Europe,4.218,Happiness Score,2015
+Egypt,Middle East and Northern Africa,4.194,Happiness Score,2015
+Yemen,Middle East and Northern Africa,4.077,Happiness Score,2015
+Angola,Sub-Saharan Africa,4.033,Happiness Score,2015
+Mali,Sub-Saharan Africa,3.995,Happiness Score,2015
+Congo (Brazzaville),Sub-Saharan Africa,3.989,Happiness Score,2015
+Comoros,Sub-Saharan Africa,3.956,Happiness Score,2015
+Uganda,Sub-Saharan Africa,3.931,Happiness Score,2015
+Senegal,Sub-Saharan Africa,3.904,Happiness Score,2015
+Gabon,Sub-Saharan Africa,3.896,Happiness Score,2015
+Niger,Sub-Saharan Africa,3.845,Happiness Score,2015
+Cambodia,Southeastern Asia,3.819,Happiness Score,2015
+Tanzania,Sub-Saharan Africa,3.781,Happiness Score,2015
+Madagascar,Sub-Saharan Africa,3.681,Happiness Score,2015
+Chad,Sub-Saharan Africa,3.667,Happiness Score,2015
+Guinea,Sub-Saharan Africa,3.656,Happiness Score,2015
+Ivory Coast,Sub-Saharan Africa,3.655,Happiness Score,2015
+Burkina Faso,Sub-Saharan Africa,3.587,Happiness Score,2015
+Afghanistan,Southern Asia,3.575,Happiness Score,2015
+Rwanda,Sub-Saharan Africa,3.465,Happiness Score,2015
+Benin,Sub-Saharan Africa,3.34,Happiness Score,2015
+Syria,Middle East and Northern Africa,3.006,Happiness Score,2015
+Burundi,Sub-Saharan Africa,2.905,Happiness Score,2015
+Togo,Sub-Saharan Africa,2.839,Happiness Score,2015
+Denmark,Western Europe,7.526,Happiness Score,2016
+Switzerland,Western Europe,7.509,Happiness Score,2016
+Iceland,Western Europe,7.501,Happiness Score,2016
+Norway,Western Europe,7.498,Happiness Score,2016
+Finland,Western Europe,7.413,Happiness Score,2016
+Canada,North America,7.404,Happiness Score,2016
+Netherlands,Western Europe,7.339,Happiness Score,2016
+New Zealand,Australia and New Zealand,7.334,Happiness Score,2016
+Australia,Australia and New Zealand,7.313,Happiness Score,2016
+Sweden,Western Europe,7.291,Happiness Score,2016
+Israel,Middle East and Northern Africa,7.267,Happiness Score,2016
+Austria,Western Europe,7.119,Happiness Score,2016
+United States,North America,7.104,Happiness Score,2016
+Costa Rica,Latin America and Caribbean,7.087,Happiness Score,2016
+Puerto Rico,Latin America and Caribbean,7.039,Happiness Score,2016
+Germany,Western Europe,6.994,Happiness Score,2016
+Brazil,Latin America and Caribbean,6.952,Happiness Score,2016
+Belgium,Western Europe,6.929,Happiness Score,2016
+Ireland,Western Europe,6.907,Happiness Score,2016
+Luxembourg,Western Europe,6.871,Happiness Score,2016
+Mexico,Latin America and Caribbean,6.778,Happiness Score,2016
+Singapore,Southeastern Asia,6.739,Happiness Score,2016
+United Kingdom,Western Europe,6.725,Happiness Score,2016
+Chile,Latin America and Caribbean,6.705,Happiness Score,2016
+Panama,Latin America and Caribbean,6.701,Happiness Score,2016
+Argentina,Latin America and Caribbean,6.65,Happiness Score,2016
+Czech Republic,Central and Eastern Europe,6.596,Happiness Score,2016
+United Arab Emirates,Middle East and Northern Africa,6.573,Happiness Score,2016
+Uruguay,Latin America and Caribbean,6.545,Happiness Score,2016
+Malta,Western Europe,6.488,Happiness Score,2016
+Colombia,Latin America and Caribbean,6.481,Happiness Score,2016
+France,Western Europe,6.478,Happiness Score,2016
+Thailand,Southeastern Asia,6.474,Happiness Score,2016
+Saudi Arabia,Middle East and Northern Africa,6.379,Happiness Score,2016
+Taiwan,Eastern Asia,6.379,Happiness Score,2016
+Qatar,Middle East and Northern Africa,6.375,Happiness Score,2016
+Spain,Western Europe,6.361,Happiness Score,2016
+Algeria,Middle East and Northern Africa,6.355,Happiness Score,2016
+Guatemala,Latin America and Caribbean,6.324,Happiness Score,2016
+Suriname,Latin America and Caribbean,6.269,Happiness Score,2016
+Kuwait,Middle East and Northern Africa,6.239,Happiness Score,2016
+Bahrain,Middle East and Northern Africa,6.218,Happiness Score,2016
+Trinidad and Tobago,Latin America and Caribbean,6.168,Happiness Score,2016
+Venezuela,Latin America and Caribbean,6.084,Happiness Score,2016
+Slovakia,Central and Eastern Europe,6.078,Happiness Score,2016
+El Salvador,Latin America and Caribbean,6.068,Happiness Score,2016
+Malaysia,Southeastern Asia,6.005,Happiness Score,2016
+Nicaragua,Latin America and Caribbean,5.992,Happiness Score,2016
+Uzbekistan,Central and Eastern Europe,5.987,Happiness Score,2016
+Italy,Western Europe,5.977,Happiness Score,2016
+Ecuador,Latin America and Caribbean,5.976,Happiness Score,2016
+Belize,Latin America and Caribbean,5.956,Happiness Score,2016
+Japan,Eastern Asia,5.921,Happiness Score,2016
+Kazakhstan,Central and Eastern Europe,5.919,Happiness Score,2016
+Moldova,Central and Eastern Europe,5.897,Happiness Score,2016
+Russia,Central and Eastern Europe,5.856,Happiness Score,2016
+Poland,Central and Eastern Europe,5.835,Happiness Score,2016
+South Korea,Eastern Asia,5.835,Happiness Score,2016
+Bolivia,Latin America and Caribbean,5.822,Happiness Score,2016
+Lithuania,Central and Eastern Europe,5.813,Happiness Score,2016
+Belarus,Central and Eastern Europe,5.802,Happiness Score,2016
+North Cyprus,Western Europe,5.771,Happiness Score,2016
+Slovenia,Central and Eastern Europe,5.768,Happiness Score,2016
+Peru,Latin America and Caribbean,5.743,Happiness Score,2016
+Turkmenistan,Central and Eastern Europe,5.658,Happiness Score,2016
+Mauritius,Sub-Saharan Africa,5.648,Happiness Score,2016
+Libya,Middle East and Northern Africa,5.615,Happiness Score,2016
+Latvia,Central and Eastern Europe,5.56,Happiness Score,2016
+Cyprus,Western Europe,5.546,Happiness Score,2016
+Paraguay,Latin America and Caribbean,5.538,Happiness Score,2016
+Romania,Central and Eastern Europe,5.528,Happiness Score,2016
+Estonia,Central and Eastern Europe,5.517,Happiness Score,2016
+Jamaica,Latin America and Caribbean,5.51,Happiness Score,2016
+Croatia,Central and Eastern Europe,5.488,Happiness Score,2016
+Hong Kong,Eastern Asia,5.458,Happiness Score,2016
+Somalia,Sub-Saharan Africa,5.44,Happiness Score,2016
+Kosovo,Central and Eastern Europe,5.401,Happiness Score,2016
+Turkey,Middle East and Northern Africa,5.389,Happiness Score,2016
+Indonesia,Southeastern Asia,5.314,Happiness Score,2016
+Jordan,Middle East and Northern Africa,5.303,Happiness Score,2016
+Azerbaijan,Central and Eastern Europe,5.291,Happiness Score,2016
+Philippines,Southeastern Asia,5.279,Happiness Score,2016
+China,Eastern Asia,5.245,Happiness Score,2016
+Bhutan,Southern Asia,5.196,Happiness Score,2016
+Kyrgyzstan,Central and Eastern Europe,5.185,Happiness Score,2016
+Serbia,Central and Eastern Europe,5.177,Happiness Score,2016
+Bosnia and Herzegovina,Central and Eastern Europe,5.163,Happiness Score,2016
+Montenegro,Central and Eastern Europe,5.161,Happiness Score,2016
+Dominican Republic,Latin America and Caribbean,5.155,Happiness Score,2016
+Morocco,Middle East and Northern Africa,5.151,Happiness Score,2016
+Hungary,Central and Eastern Europe,5.145,Happiness Score,2016
+Pakistan,Southern Asia,5.132,Happiness Score,2016
+Lebanon,Middle East and Northern Africa,5.129,Happiness Score,2016
+Portugal,Western Europe,5.123,Happiness Score,2016
+Macedonia,Central and Eastern Europe,5.121,Happiness Score,2016
+Vietnam,Southeastern Asia,5.061,Happiness Score,2016
+Somaliland Region,Sub-Saharan Africa,5.057,Happiness Score,2016
+Tunisia,Middle East and Northern Africa,5.045,Happiness Score,2016
+Greece,Western Europe,5.033,Happiness Score,2016
+Tajikistan,Central and Eastern Europe,4.996,Happiness Score,2016
+Mongolia,Eastern Asia,4.907,Happiness Score,2016
+Laos,Southeastern Asia,4.876,Happiness Score,2016
+Nigeria,Sub-Saharan Africa,4.875,Happiness Score,2016
+Honduras,Latin America and Caribbean,4.871,Happiness Score,2016
+Iran,Middle East and Northern Africa,4.813,Happiness Score,2016
+Zambia,Sub-Saharan Africa,4.795,Happiness Score,2016
+Nepal,Southern Asia,4.793,Happiness Score,2016
+Palestinian Territories,Middle East and Northern Africa,4.754,Happiness Score,2016
+Albania,Central and Eastern Europe,4.655,Happiness Score,2016
+Bangladesh,Southern Asia,4.643,Happiness Score,2016
+Sierra Leone,Sub-Saharan Africa,4.635,Happiness Score,2016
+Iraq,Middle East and Northern Africa,4.575,Happiness Score,2016
+Namibia,Sub-Saharan Africa,4.574,Happiness Score,2016
+Cameroon,Sub-Saharan Africa,4.513,Happiness Score,2016
+Ethiopia,Sub-Saharan Africa,4.508,Happiness Score,2016
+South Africa,Sub-Saharan Africa,4.459,Happiness Score,2016
+Sri Lanka,Southern Asia,4.415,Happiness Score,2016
+India,Southern Asia,4.404,Happiness Score,2016
+Myanmar,Southeastern Asia,4.395,Happiness Score,2016
+Egypt,Middle East and Northern Africa,4.362,Happiness Score,2016
+Armenia,Central and Eastern Europe,4.36,Happiness Score,2016
+Kenya,Sub-Saharan Africa,4.356,Happiness Score,2016
+Ukraine,Central and Eastern Europe,4.324,Happiness Score,2016
+Ghana,Sub-Saharan Africa,4.276,Happiness Score,2016
+Congo (Kinshasa),Sub-Saharan Africa,4.272,Happiness Score,2016
+Georgia,Central and Eastern Europe,4.252,Happiness Score,2016
+Congo (Brazzaville),Sub-Saharan Africa,4.236,Happiness Score,2016
+Senegal,Sub-Saharan Africa,4.219,Happiness Score,2016
+Bulgaria,Central and Eastern Europe,4.217,Happiness Score,2016
+Mauritania,Sub-Saharan Africa,4.201,Happiness Score,2016
+Zimbabwe,Sub-Saharan Africa,4.193,Happiness Score,2016
+Malawi,Sub-Saharan Africa,4.156,Happiness Score,2016
+Sudan,Sub-Saharan Africa,4.139,Happiness Score,2016
+Gabon,Sub-Saharan Africa,4.121,Happiness Score,2016
+Mali,Sub-Saharan Africa,4.073,Happiness Score,2016
+Haiti,Latin America and Caribbean,4.028,Happiness Score,2016
+Botswana,Sub-Saharan Africa,3.974,Happiness Score,2016
+Comoros,Sub-Saharan Africa,3.956,Happiness Score,2016
+Ivory Coast,Sub-Saharan Africa,3.916,Happiness Score,2016
+Cambodia,Southeastern Asia,3.907,Happiness Score,2016
+Angola,Sub-Saharan Africa,3.866,Happiness Score,2016
+Niger,Sub-Saharan Africa,3.856,Happiness Score,2016
+South Sudan,Sub-Saharan Africa,3.832,Happiness Score,2016
+Chad,Sub-Saharan Africa,3.763,Happiness Score,2016
+Burkina Faso,Sub-Saharan Africa,3.739,Happiness Score,2016
+Uganda,Sub-Saharan Africa,3.739,Happiness Score,2016
+Yemen,Middle East and Northern Africa,3.724,Happiness Score,2016
+Madagascar,Sub-Saharan Africa,3.695,Happiness Score,2016
+Tanzania,Sub-Saharan Africa,3.666,Happiness Score,2016
+Liberia,Sub-Saharan Africa,3.622,Happiness Score,2016
+Guinea,Sub-Saharan Africa,3.607,Happiness Score,2016
+Rwanda,Sub-Saharan Africa,3.515,Happiness Score,2016
+Benin,Sub-Saharan Africa,3.484,Happiness Score,2016
+Afghanistan,Southern Asia,3.36,Happiness Score,2016
+Togo,Sub-Saharan Africa,3.303,Happiness Score,2016
+Syria,Middle East and Northern Africa,3.069,Happiness Score,2016
+Burundi,Sub-Saharan Africa,2.905,Happiness Score,2016
+Switzerland,Western Europe,1.39651,Economy (GDP per Capita),2015
+Iceland,Western Europe,1.30232,Economy (GDP per Capita),2015
+Denmark,Western Europe,1.32548,Economy (GDP per Capita),2015
+Norway,Western Europe,1.459,Economy (GDP per Capita),2015
+Canada,North America,1.32629,Economy (GDP per Capita),2015
+Finland,Western Europe,1.29025,Economy (GDP per Capita),2015
+Netherlands,Western Europe,1.32944,Economy (GDP per Capita),2015
+Sweden,Western Europe,1.33171,Economy (GDP per Capita),2015
+New Zealand,Australia and New Zealand,1.25018,Economy (GDP per Capita),2015
+Australia,Australia and New Zealand,1.33358,Economy (GDP per Capita),2015
+Israel,Middle East and Northern Africa,1.22857,Economy (GDP per Capita),2015
+Costa Rica,Latin America and Caribbean,0.95578,Economy (GDP per Capita),2015
+Austria,Western Europe,1.33723,Economy (GDP per Capita),2015
+Mexico,Latin America and Caribbean,1.02054,Economy (GDP per Capita),2015
+United States,North America,1.39451,Economy (GDP per Capita),2015
+Brazil,Latin America and Caribbean,0.98124,Economy (GDP per Capita),2015
+Luxembourg,Western Europe,1.56391,Economy (GDP per Capita),2015
+Ireland,Western Europe,1.33596,Economy (GDP per Capita),2015
+Belgium,Western Europe,1.30782,Economy (GDP per Capita),2015
+United Arab Emirates,Middle East and Northern Africa,1.42727,Economy (GDP per Capita),2015
+United Kingdom,Western Europe,1.26637,Economy (GDP per Capita),2015
+Oman,Middle East and Northern Africa,1.36011,Economy (GDP per Capita),2015
+Venezuela,Latin America and Caribbean,1.04424,Economy (GDP per Capita),2015
+Singapore,Southeastern Asia,1.52186,Economy (GDP per Capita),2015
+Panama,Latin America and Caribbean,1.06353,Economy (GDP per Capita),2015
+Germany,Western Europe,1.32792,Economy (GDP per Capita),2015
+Chile,Latin America and Caribbean,1.10715,Economy (GDP per Capita),2015
+Qatar,Middle East and Northern Africa,1.69042,Economy (GDP per Capita),2015
+France,Western Europe,1.27778,Economy (GDP per Capita),2015
+Argentina,Latin America and Caribbean,1.05351,Economy (GDP per Capita),2015
+Czech Republic,Central and Eastern Europe,1.17898,Economy (GDP per Capita),2015
+Uruguay,Latin America and Caribbean,1.06166,Economy (GDP per Capita),2015
+Colombia,Latin America and Caribbean,0.91861,Economy (GDP per Capita),2015
+Thailand,Southeastern Asia,0.9669,Economy (GDP per Capita),2015
+Saudi Arabia,Middle East and Northern Africa,1.39541,Economy (GDP per Capita),2015
+Spain,Western Europe,1.23011,Economy (GDP per Capita),2015
+Malta,Western Europe,1.2074,Economy (GDP per Capita),2015
+Taiwan,Eastern Asia,1.29098,Economy (GDP per Capita),2015
+Kuwait,Middle East and Northern Africa,1.55422,Economy (GDP per Capita),2015
+Suriname,Latin America and Caribbean,0.99534,Economy (GDP per Capita),2015
+Trinidad and Tobago,Latin America and Caribbean,1.21183,Economy (GDP per Capita),2015
+El Salvador,Latin America and Caribbean,0.76454,Economy (GDP per Capita),2015
+Guatemala,Latin America and Caribbean,0.74553,Economy (GDP per Capita),2015
+Uzbekistan,Central and Eastern Europe,0.63244,Economy (GDP per Capita),2015
+Slovakia,Central and Eastern Europe,1.16891,Economy (GDP per Capita),2015
+Japan,Eastern Asia,1.27074,Economy (GDP per Capita),2015
+South Korea,Eastern Asia,1.24461,Economy (GDP per Capita),2015
+Ecuador,Latin America and Caribbean,0.86402,Economy (GDP per Capita),2015
+Bahrain,Middle East and Northern Africa,1.32376,Economy (GDP per Capita),2015
+Italy,Western Europe,1.25114,Economy (GDP per Capita),2015
+Bolivia,Latin America and Caribbean,0.68133,Economy (GDP per Capita),2015
+Moldova,Central and Eastern Europe,0.59448,Economy (GDP per Capita),2015
+Paraguay,Latin America and Caribbean,0.75985,Economy (GDP per Capita),2015
+Kazakhstan,Central and Eastern Europe,1.12254,Economy (GDP per Capita),2015
+Slovenia,Central and Eastern Europe,1.18498,Economy (GDP per Capita),2015
+Lithuania,Central and Eastern Europe,1.14723,Economy (GDP per Capita),2015
+Nicaragua,Latin America and Caribbean,0.59325,Economy (GDP per Capita),2015
+Peru,Latin America and Caribbean,0.90019,Economy (GDP per Capita),2015
+Belarus,Central and Eastern Europe,1.03192,Economy (GDP per Capita),2015
+Poland,Central and Eastern Europe,1.12555,Economy (GDP per Capita),2015
+Malaysia,Southeastern Asia,1.12486,Economy (GDP per Capita),2015
+Croatia,Central and Eastern Europe,1.08254,Economy (GDP per Capita),2015
+Libya,Middle East and Northern Africa,1.13145,Economy (GDP per Capita),2015
+Russia,Central and Eastern Europe,1.13764,Economy (GDP per Capita),2015
+Jamaica,Latin America and Caribbean,0.81038,Economy (GDP per Capita),2015
+North Cyprus,Western Europe,1.20806,Economy (GDP per Capita),2015
+Cyprus,Western Europe,1.20813,Economy (GDP per Capita),2015
+Algeria,Middle East and Northern Africa,0.93929,Economy (GDP per Capita),2015
+Kosovo,Central and Eastern Europe,0.80148,Economy (GDP per Capita),2015
+Turkmenistan,Central and Eastern Europe,0.95847,Economy (GDP per Capita),2015
+Mauritius,Sub-Saharan Africa,1.00761,Economy (GDP per Capita),2015
+Hong Kong,Eastern Asia,1.38604,Economy (GDP per Capita),2015
+Estonia,Central and Eastern Europe,1.15174,Economy (GDP per Capita),2015
+Indonesia,Southeastern Asia,0.82827,Economy (GDP per Capita),2015
+Vietnam,Southeastern Asia,0.63216,Economy (GDP per Capita),2015
+Turkey,Middle East and Northern Africa,1.06098,Economy (GDP per Capita),2015
+Kyrgyzstan,Central and Eastern Europe,0.47428,Economy (GDP per Capita),2015
+Nigeria,Sub-Saharan Africa,0.65435,Economy (GDP per Capita),2015
+Bhutan,Southern Asia,0.77042,Economy (GDP per Capita),2015
+Azerbaijan,Central and Eastern Europe,1.02389,Economy (GDP per Capita),2015
+Pakistan,Southern Asia,0.59543,Economy (GDP per Capita),2015
+Jordan,Middle East and Northern Africa,0.90198,Economy (GDP per Capita),2015
+Montenegro,Central and Eastern Europe,0.97438,Economy (GDP per Capita),2015
+China,Eastern Asia,0.89012,Economy (GDP per Capita),2015
+Zambia,Sub-Saharan Africa,0.47038,Economy (GDP per Capita),2015
+Romania,Central and Eastern Europe,1.04345,Economy (GDP per Capita),2015
+Serbia,Central and Eastern Europe,0.92053,Economy (GDP per Capita),2015
+Portugal,Western Europe,1.15991,Economy (GDP per Capita),2015
+Latvia,Central and Eastern Europe,1.11312,Economy (GDP per Capita),2015
+Philippines,Southeastern Asia,0.70532,Economy (GDP per Capita),2015
+Somaliland region,Sub-Saharan Africa,0.18847,Economy (GDP per Capita),2015
+Morocco,Middle East and Northern Africa,0.73479,Economy (GDP per Capita),2015
+Macedonia,Central and Eastern Europe,0.91851,Economy (GDP per Capita),2015
+Mozambique,Sub-Saharan Africa,0.08308,Economy (GDP per Capita),2015
+Albania,Central and Eastern Europe,0.87867,Economy (GDP per Capita),2015
+Bosnia and Herzegovina,Central and Eastern Europe,0.83223,Economy (GDP per Capita),2015
+Lesotho,Sub-Saharan Africa,0.37545,Economy (GDP per Capita),2015
+Dominican Republic,Latin America and Caribbean,0.89537,Economy (GDP per Capita),2015
+Laos,Southeastern Asia,0.59066,Economy (GDP per Capita),2015
+Mongolia,Eastern Asia,0.82819,Economy (GDP per Capita),2015
+Swaziland,Sub-Saharan Africa,0.71206,Economy (GDP per Capita),2015
+Greece,Western Europe,1.15406,Economy (GDP per Capita),2015
+Lebanon,Middle East and Northern Africa,1.02564,Economy (GDP per Capita),2015
+Hungary,Central and Eastern Europe,1.12094,Economy (GDP per Capita),2015
+Honduras,Latin America and Caribbean,0.59532,Economy (GDP per Capita),2015
+Tajikistan,Central and Eastern Europe,0.39047,Economy (GDP per Capita),2015
+Tunisia,Middle East and Northern Africa,0.88113,Economy (GDP per Capita),2015
+Palestinian Territories,Middle East and Northern Africa,0.59867,Economy (GDP per Capita),2015
+Bangladesh,Southern Asia,0.39753,Economy (GDP per Capita),2015
+Iran,Middle East and Northern Africa,1.0088,Economy (GDP per Capita),2015
+Ukraine,Central and Eastern Europe,0.79907,Economy (GDP per Capita),2015
+Iraq,Middle East and Northern Africa,0.98549,Economy (GDP per Capita),2015
+South Africa,Sub-Saharan Africa,0.92049,Economy (GDP per Capita),2015
+Ghana,Sub-Saharan Africa,0.54558,Economy (GDP per Capita),2015
+Zimbabwe,Sub-Saharan Africa,0.271,Economy (GDP per Capita),2015
+Liberia,Sub-Saharan Africa,0.0712,Economy (GDP per Capita),2015
+India,Southern Asia,0.64499,Economy (GDP per Capita),2015
+Sudan,Sub-Saharan Africa,0.52107,Economy (GDP per Capita),2015
+Haiti,Latin America and Caribbean,0.26673,Economy (GDP per Capita),2015
+Congo (Kinshasa),Sub-Saharan Africa,0,Economy (GDP per Capita),2015
+Nepal,Southern Asia,0.35997,Economy (GDP per Capita),2015
+Ethiopia,Sub-Saharan Africa,0.19073,Economy (GDP per Capita),2015
+Sierra Leone,Sub-Saharan Africa,0.33024,Economy (GDP per Capita),2015
+Mauritania,Sub-Saharan Africa,0.45407,Economy (GDP per Capita),2015
+Kenya,Sub-Saharan Africa,0.36471,Economy (GDP per Capita),2015
+Djibouti,Sub-Saharan Africa,0.44025,Economy (GDP per Capita),2015
+Armenia,Central and Eastern Europe,0.76821,Economy (GDP per Capita),2015
+Botswana,Sub-Saharan Africa,0.99355,Economy (GDP per Capita),2015
+Myanmar,Southeastern Asia,0.27108,Economy (GDP per Capita),2015
+Georgia,Central and Eastern Europe,0.7419,Economy (GDP per Capita),2015
+Malawi,Sub-Saharan Africa,0.01604,Economy (GDP per Capita),2015
+Sri Lanka,Southern Asia,0.83524,Economy (GDP per Capita),2015
+Cameroon,Sub-Saharan Africa,0.4225,Economy (GDP per Capita),2015
+Bulgaria,Central and Eastern Europe,1.01216,Economy (GDP per Capita),2015
+Egypt,Middle East and Northern Africa,0.8818,Economy (GDP per Capita),2015
+Yemen,Middle East and Northern Africa,0.54649,Economy (GDP per Capita),2015
+Angola,Sub-Saharan Africa,0.75778,Economy (GDP per Capita),2015
+Mali,Sub-Saharan Africa,0.26074,Economy (GDP per Capita),2015
+Congo (Brazzaville),Sub-Saharan Africa,0.67866,Economy (GDP per Capita),2015
+Comoros,Sub-Saharan Africa,0.23906,Economy (GDP per Capita),2015
+Uganda,Sub-Saharan Africa,0.21102,Economy (GDP per Capita),2015
+Senegal,Sub-Saharan Africa,0.36498,Economy (GDP per Capita),2015
+Gabon,Sub-Saharan Africa,1.06024,Economy (GDP per Capita),2015
+Niger,Sub-Saharan Africa,0.0694,Economy (GDP per Capita),2015
+Cambodia,Southeastern Asia,0.46038,Economy (GDP per Capita),2015
+Tanzania,Sub-Saharan Africa,0.2852,Economy (GDP per Capita),2015
+Madagascar,Sub-Saharan Africa,0.20824,Economy (GDP per Capita),2015
+Chad,Sub-Saharan Africa,0.34193,Economy (GDP per Capita),2015
+Guinea,Sub-Saharan Africa,0.17417,Economy (GDP per Capita),2015
+Ivory Coast,Sub-Saharan Africa,0.46534,Economy (GDP per Capita),2015
+Burkina Faso,Sub-Saharan Africa,0.25812,Economy (GDP per Capita),2015
+Afghanistan,Southern Asia,0.31982,Economy (GDP per Capita),2015
+Rwanda,Sub-Saharan Africa,0.22208,Economy (GDP per Capita),2015
+Benin,Sub-Saharan Africa,0.28665,Economy (GDP per Capita),2015
+Syria,Middle East and Northern Africa,0.6632,Economy (GDP per Capita),2015
+Burundi,Sub-Saharan Africa,0.0153,Economy (GDP per Capita),2015
+Togo,Sub-Saharan Africa,0.20868,Economy (GDP per Capita),2015
+Denmark,Western Europe,1.44178,Economy (GDP per Capita),2016
+Switzerland,Western Europe,1.52733,Economy (GDP per Capita),2016
+Iceland,Western Europe,1.42666,Economy (GDP per Capita),2016
+Norway,Western Europe,1.57744,Economy (GDP per Capita),2016
+Finland,Western Europe,1.40598,Economy (GDP per Capita),2016
+Canada,North America,1.44015,Economy (GDP per Capita),2016
+Netherlands,Western Europe,1.46468,Economy (GDP per Capita),2016
+New Zealand,Australia and New Zealand,1.36066,Economy (GDP per Capita),2016
+Australia,Australia and New Zealand,1.44443,Economy (GDP per Capita),2016
+Sweden,Western Europe,1.45181,Economy (GDP per Capita),2016
+Israel,Middle East and Northern Africa,1.33766,Economy (GDP per Capita),2016
+Austria,Western Europe,1.45038,Economy (GDP per Capita),2016
+United States,North America,1.50796,Economy (GDP per Capita),2016
+Costa Rica,Latin America and Caribbean,1.06879,Economy (GDP per Capita),2016
+Puerto Rico,Latin America and Caribbean,1.35943,Economy (GDP per Capita),2016
+Germany,Western Europe,1.44787,Economy (GDP per Capita),2016
+Brazil,Latin America and Caribbean,1.08754,Economy (GDP per Capita),2016
+Belgium,Western Europe,1.42539,Economy (GDP per Capita),2016
+Ireland,Western Europe,1.48341,Economy (GDP per Capita),2016
+Luxembourg,Western Europe,1.69752,Economy (GDP per Capita),2016
+Mexico,Latin America and Caribbean,1.11508,Economy (GDP per Capita),2016
+Singapore,Southeastern Asia,1.64555,Economy (GDP per Capita),2016
+United Kingdom,Western Europe,1.40283,Economy (GDP per Capita),2016
+Chile,Latin America and Caribbean,1.2167,Economy (GDP per Capita),2016
+Panama,Latin America and Caribbean,1.18306,Economy (GDP per Capita),2016
+Argentina,Latin America and Caribbean,1.15137,Economy (GDP per Capita),2016
+Czech Republic,Central and Eastern Europe,1.30915,Economy (GDP per Capita),2016
+United Arab Emirates,Middle East and Northern Africa,1.57352,Economy (GDP per Capita),2016
+Uruguay,Latin America and Caribbean,1.18157,Economy (GDP per Capita),2016
+Malta,Western Europe,1.30782,Economy (GDP per Capita),2016
+Colombia,Latin America and Caribbean,1.03032,Economy (GDP per Capita),2016
+France,Western Europe,1.39488,Economy (GDP per Capita),2016
+Thailand,Southeastern Asia,1.0893,Economy (GDP per Capita),2016
+Saudi Arabia,Middle East and Northern Africa,1.48953,Economy (GDP per Capita),2016
+Taiwan,Eastern Asia,1.39729,Economy (GDP per Capita),2016
+Qatar,Middle East and Northern Africa,1.82427,Economy (GDP per Capita),2016
+Spain,Western Europe,1.34253,Economy (GDP per Capita),2016
+Algeria,Middle East and Northern Africa,1.05266,Economy (GDP per Capita),2016
+Guatemala,Latin America and Caribbean,0.83454,Economy (GDP per Capita),2016
+Suriname,Latin America and Caribbean,1.09686,Economy (GDP per Capita),2016
+Kuwait,Middle East and Northern Africa,1.61714,Economy (GDP per Capita),2016
+Bahrain,Middle East and Northern Africa,1.44024,Economy (GDP per Capita),2016
+Trinidad and Tobago,Latin America and Caribbean,1.32572,Economy (GDP per Capita),2016
+Venezuela,Latin America and Caribbean,1.13367,Economy (GDP per Capita),2016
+Slovakia,Central and Eastern Europe,1.27973,Economy (GDP per Capita),2016
+El Salvador,Latin America and Caribbean,0.8737,Economy (GDP per Capita),2016
+Malaysia,Southeastern Asia,1.25142,Economy (GDP per Capita),2016
+Nicaragua,Latin America and Caribbean,0.69384,Economy (GDP per Capita),2016
+Uzbekistan,Central and Eastern Europe,0.73591,Economy (GDP per Capita),2016
+Italy,Western Europe,1.35495,Economy (GDP per Capita),2016
+Ecuador,Latin America and Caribbean,0.97306,Economy (GDP per Capita),2016
+Belize,Latin America and Caribbean,0.87616,Economy (GDP per Capita),2016
+Japan,Eastern Asia,1.38007,Economy (GDP per Capita),2016
+Kazakhstan,Central and Eastern Europe,1.22943,Economy (GDP per Capita),2016
+Moldova,Central and Eastern Europe,0.69177,Economy (GDP per Capita),2016
+Russia,Central and Eastern Europe,1.23228,Economy (GDP per Capita),2016
+Poland,Central and Eastern Europe,1.24585,Economy (GDP per Capita),2016
+South Korea,Eastern Asia,1.35948,Economy (GDP per Capita),2016
+Bolivia,Latin America and Caribbean,0.79422,Economy (GDP per Capita),2016
+Lithuania,Central and Eastern Europe,1.2692,Economy (GDP per Capita),2016
+Belarus,Central and Eastern Europe,1.13062,Economy (GDP per Capita),2016
+North Cyprus,Western Europe,1.31141,Economy (GDP per Capita),2016
+Slovenia,Central and Eastern Europe,1.29947,Economy (GDP per Capita),2016
+Peru,Latin America and Caribbean,0.99602,Economy (GDP per Capita),2016
+Turkmenistan,Central and Eastern Europe,1.08017,Economy (GDP per Capita),2016
+Mauritius,Sub-Saharan Africa,1.14372,Economy (GDP per Capita),2016
+Libya,Middle East and Northern Africa,1.06688,Economy (GDP per Capita),2016
+Latvia,Central and Eastern Europe,1.21788,Economy (GDP per Capita),2016
+Cyprus,Western Europe,1.31857,Economy (GDP per Capita),2016
+Paraguay,Latin America and Caribbean,0.89373,Economy (GDP per Capita),2016
+Romania,Central and Eastern Europe,1.1697,Economy (GDP per Capita),2016
+Estonia,Central and Eastern Europe,1.27964,Economy (GDP per Capita),2016
+Jamaica,Latin America and Caribbean,0.89333,Economy (GDP per Capita),2016
+Croatia,Central and Eastern Europe,1.18649,Economy (GDP per Capita),2016
+Hong Kong,Eastern Asia,1.5107,Economy (GDP per Capita),2016
+Somalia,Sub-Saharan Africa,0,Economy (GDP per Capita),2016
+Kosovo,Central and Eastern Europe,0.90145,Economy (GDP per Capita),2016
+Turkey,Middle East and Northern Africa,1.16492,Economy (GDP per Capita),2016
+Indonesia,Southeastern Asia,0.95104,Economy (GDP per Capita),2016
+Jordan,Middle East and Northern Africa,0.99673,Economy (GDP per Capita),2016
+Azerbaijan,Central and Eastern Europe,1.12373,Economy (GDP per Capita),2016
+Philippines,Southeastern Asia,0.81217,Economy (GDP per Capita),2016
+China,Eastern Asia,1.0278,Economy (GDP per Capita),2016
+Bhutan,Southern Asia,0.8527,Economy (GDP per Capita),2016
+Kyrgyzstan,Central and Eastern Europe,0.56044,Economy (GDP per Capita),2016
+Serbia,Central and Eastern Europe,1.03437,Economy (GDP per Capita),2016
+Bosnia and Herzegovina,Central and Eastern Europe,0.93383,Economy (GDP per Capita),2016
+Montenegro,Central and Eastern Europe,1.07838,Economy (GDP per Capita),2016
+Dominican Republic,Latin America and Caribbean,1.02787,Economy (GDP per Capita),2016
+Morocco,Middle East and Northern Africa,0.84058,Economy (GDP per Capita),2016
+Hungary,Central and Eastern Europe,1.24142,Economy (GDP per Capita),2016
+Pakistan,Southern Asia,0.68816,Economy (GDP per Capita),2016
+Lebanon,Middle East and Northern Africa,1.12268,Economy (GDP per Capita),2016
+Portugal,Western Europe,1.27607,Economy (GDP per Capita),2016
+Macedonia,Central and Eastern Europe,1.0193,Economy (GDP per Capita),2016
+Vietnam,Southeastern Asia,0.74037,Economy (GDP per Capita),2016
+Somaliland Region,Sub-Saharan Africa,0.25558,Economy (GDP per Capita),2016
+Tunisia,Middle East and Northern Africa,0.97724,Economy (GDP per Capita),2016
+Greece,Western Europe,1.24886,Economy (GDP per Capita),2016
+Tajikistan,Central and Eastern Europe,0.48835,Economy (GDP per Capita),2016
+Mongolia,Eastern Asia,0.98853,Economy (GDP per Capita),2016
+Laos,Southeastern Asia,0.68042,Economy (GDP per Capita),2016
+Nigeria,Sub-Saharan Africa,0.75216,Economy (GDP per Capita),2016
+Honduras,Latin America and Caribbean,0.69429,Economy (GDP per Capita),2016
+Iran,Middle East and Northern Africa,1.11758,Economy (GDP per Capita),2016
+Zambia,Sub-Saharan Africa,0.61202,Economy (GDP per Capita),2016
+Nepal,Southern Asia,0.44626,Economy (GDP per Capita),2016
+Palestinian Territories,Middle East and Northern Africa,0.67024,Economy (GDP per Capita),2016
+Albania,Central and Eastern Europe,0.9553,Economy (GDP per Capita),2016
+Bangladesh,Southern Asia,0.54177,Economy (GDP per Capita),2016
+Sierra Leone,Sub-Saharan Africa,0.36485,Economy (GDP per Capita),2016
+Iraq,Middle East and Northern Africa,1.07474,Economy (GDP per Capita),2016
+Namibia,Sub-Saharan Africa,0.93287,Economy (GDP per Capita),2016
+Cameroon,Sub-Saharan Africa,0.52497,Economy (GDP per Capita),2016
+Ethiopia,Sub-Saharan Africa,0.29283,Economy (GDP per Capita),2016
+South Africa,Sub-Saharan Africa,1.02416,Economy (GDP per Capita),2016
+Sri Lanka,Southern Asia,0.97318,Economy (GDP per Capita),2016
+India,Southern Asia,0.74036,Economy (GDP per Capita),2016
+Myanmar,Southeastern Asia,0.34112,Economy (GDP per Capita),2016
+Egypt,Middle East and Northern Africa,0.95395,Economy (GDP per Capita),2016
+Armenia,Central and Eastern Europe,0.86086,Economy (GDP per Capita),2016
+Kenya,Sub-Saharan Africa,0.52267,Economy (GDP per Capita),2016
+Ukraine,Central and Eastern Europe,0.87287,Economy (GDP per Capita),2016
+Ghana,Sub-Saharan Africa,0.63107,Economy (GDP per Capita),2016
+Congo (Kinshasa),Sub-Saharan Africa,0.05661,Economy (GDP per Capita),2016
+Georgia,Central and Eastern Europe,0.83792,Economy (GDP per Capita),2016
+Congo (Brazzaville),Sub-Saharan Africa,0.77109,Economy (GDP per Capita),2016
+Senegal,Sub-Saharan Africa,0.44314,Economy (GDP per Capita),2016
+Bulgaria,Central and Eastern Europe,1.11306,Economy (GDP per Capita),2016
+Mauritania,Sub-Saharan Africa,0.61391,Economy (GDP per Capita),2016
+Zimbabwe,Sub-Saharan Africa,0.35041,Economy (GDP per Capita),2016
+Malawi,Sub-Saharan Africa,0.08709,Economy (GDP per Capita),2016
+Sudan,Sub-Saharan Africa,0.63069,Economy (GDP per Capita),2016
+Gabon,Sub-Saharan Africa,1.15851,Economy (GDP per Capita),2016
+Mali,Sub-Saharan Africa,0.31292,Economy (GDP per Capita),2016
+Haiti,Latin America and Caribbean,0.34097,Economy (GDP per Capita),2016
+Botswana,Sub-Saharan Africa,1.09426,Economy (GDP per Capita),2016
+Comoros,Sub-Saharan Africa,0.27509,Economy (GDP per Capita),2016
+Ivory Coast,Sub-Saharan Africa,0.55507,Economy (GDP per Capita),2016
+Cambodia,Southeastern Asia,0.55604,Economy (GDP per Capita),2016
+Angola,Sub-Saharan Africa,0.84731,Economy (GDP per Capita),2016
+Niger,Sub-Saharan Africa,0.1327,Economy (GDP per Capita),2016
+South Sudan,Sub-Saharan Africa,0.39394,Economy (GDP per Capita),2016
+Chad,Sub-Saharan Africa,0.42214,Economy (GDP per Capita),2016
+Burkina Faso,Sub-Saharan Africa,0.31995,Economy (GDP per Capita),2016
+Uganda,Sub-Saharan Africa,0.34719,Economy (GDP per Capita),2016
+Yemen,Middle East and Northern Africa,0.57939,Economy (GDP per Capita),2016
+Madagascar,Sub-Saharan Africa,0.27954,Economy (GDP per Capita),2016
+Tanzania,Sub-Saharan Africa,0.47155,Economy (GDP per Capita),2016
+Liberia,Sub-Saharan Africa,0.10706,Economy (GDP per Capita),2016
+Guinea,Sub-Saharan Africa,0.22415,Economy (GDP per Capita),2016
+Rwanda,Sub-Saharan Africa,0.32846,Economy (GDP per Capita),2016
+Benin,Sub-Saharan Africa,0.39499,Economy (GDP per Capita),2016
+Afghanistan,Southern Asia,0.38227,Economy (GDP per Capita),2016
+Togo,Sub-Saharan Africa,0.28123,Economy (GDP per Capita),2016
+Syria,Middle East and Northern Africa,0.74719,Economy (GDP per Capita),2016
+Burundi,Sub-Saharan Africa,0.06831,Economy (GDP per Capita),2016
+Switzerland,Western Europe,0.94143,Health (Life Expectancy),2015
+Iceland,Western Europe,0.94784,Health (Life Expectancy),2015
+Denmark,Western Europe,0.87464,Health (Life Expectancy),2015
+Norway,Western Europe,0.88521,Health (Life Expectancy),2015
+Canada,North America,0.90563,Health (Life Expectancy),2015
+Finland,Western Europe,0.88911,Health (Life Expectancy),2015
+Netherlands,Western Europe,0.89284,Health (Life Expectancy),2015
+Sweden,Western Europe,0.91087,Health (Life Expectancy),2015
+New Zealand,Australia and New Zealand,0.90837,Health (Life Expectancy),2015
+Australia,Australia and New Zealand,0.93156,Health (Life Expectancy),2015
+Israel,Middle East and Northern Africa,0.91387,Health (Life Expectancy),2015
+Costa Rica,Latin America and Caribbean,0.86027,Health (Life Expectancy),2015
+Austria,Western Europe,0.89042,Health (Life Expectancy),2015
+Mexico,Latin America and Caribbean,0.81444,Health (Life Expectancy),2015
+United States,North America,0.86179,Health (Life Expectancy),2015
+Brazil,Latin America and Caribbean,0.69702,Health (Life Expectancy),2015
+Luxembourg,Western Europe,0.91894,Health (Life Expectancy),2015
+Ireland,Western Europe,0.89533,Health (Life Expectancy),2015
+Belgium,Western Europe,0.89667,Health (Life Expectancy),2015
+United Arab Emirates,Middle East and Northern Africa,0.80925,Health (Life Expectancy),2015
+United Kingdom,Western Europe,0.90943,Health (Life Expectancy),2015
+Oman,Middle East and Northern Africa,0.76276,Health (Life Expectancy),2015
+Venezuela,Latin America and Caribbean,0.72052,Health (Life Expectancy),2015
+Singapore,Southeastern Asia,1.02525,Health (Life Expectancy),2015
+Panama,Latin America and Caribbean,0.79661,Health (Life Expectancy),2015
+Germany,Western Europe,0.89186,Health (Life Expectancy),2015
+Chile,Latin America and Caribbean,0.85857,Health (Life Expectancy),2015
+Qatar,Middle East and Northern Africa,0.79733,Health (Life Expectancy),2015
+France,Western Europe,0.94579,Health (Life Expectancy),2015
+Argentina,Latin America and Caribbean,0.78723,Health (Life Expectancy),2015
+Czech Republic,Central and Eastern Europe,0.84483,Health (Life Expectancy),2015
+Uruguay,Latin America and Caribbean,0.8116,Health (Life Expectancy),2015
+Colombia,Latin America and Caribbean,0.69077,Health (Life Expectancy),2015
+Thailand,Southeastern Asia,0.7385,Health (Life Expectancy),2015
+Saudi Arabia,Middle East and Northern Africa,0.72025,Health (Life Expectancy),2015
+Spain,Western Europe,0.95562,Health (Life Expectancy),2015
+Malta,Western Europe,0.88721,Health (Life Expectancy),2015
+Taiwan,Eastern Asia,0.8753,Health (Life Expectancy),2015
+Kuwait,Middle East and Northern Africa,0.72492,Health (Life Expectancy),2015
+Suriname,Latin America and Caribbean,0.6082,Health (Life Expectancy),2015
+Trinidad and Tobago,Latin America and Caribbean,0.61483,Health (Life Expectancy),2015
+El Salvador,Latin America and Caribbean,0.67737,Health (Life Expectancy),2015
+Guatemala,Latin America and Caribbean,0.64425,Health (Life Expectancy),2015
+Uzbekistan,Central and Eastern Europe,0.59772,Health (Life Expectancy),2015
+Slovakia,Central and Eastern Europe,0.78902,Health (Life Expectancy),2015
+Japan,Eastern Asia,0.99111,Health (Life Expectancy),2015
+South Korea,Eastern Asia,0.96538,Health (Life Expectancy),2015
+Ecuador,Latin America and Caribbean,0.79075,Health (Life Expectancy),2015
+Bahrain,Middle East and Northern Africa,0.74716,Health (Life Expectancy),2015
+Italy,Western Europe,0.95446,Health (Life Expectancy),2015
+Bolivia,Latin America and Caribbean,0.5392,Health (Life Expectancy),2015
+Moldova,Central and Eastern Europe,0.61826,Health (Life Expectancy),2015
+Paraguay,Latin America and Caribbean,0.66098,Health (Life Expectancy),2015
+Kazakhstan,Central and Eastern Europe,0.64368,Health (Life Expectancy),2015
+Slovenia,Central and Eastern Europe,0.87337,Health (Life Expectancy),2015
+Lithuania,Central and Eastern Europe,0.73128,Health (Life Expectancy),2015
+Nicaragua,Latin America and Caribbean,0.74314,Health (Life Expectancy),2015
+Peru,Latin America and Caribbean,0.73017,Health (Life Expectancy),2015
+Belarus,Central and Eastern Europe,0.73608,Health (Life Expectancy),2015
+Poland,Central and Eastern Europe,0.77903,Health (Life Expectancy),2015
+Malaysia,Southeastern Asia,0.72394,Health (Life Expectancy),2015
+Croatia,Central and Eastern Europe,0.78805,Health (Life Expectancy),2015
+Libya,Middle East and Northern Africa,0.7038,Health (Life Expectancy),2015
+Russia,Central and Eastern Europe,0.66926,Health (Life Expectancy),2015
+Jamaica,Latin America and Caribbean,0.68741,Health (Life Expectancy),2015
+North Cyprus,Western Europe,0.92356,Health (Life Expectancy),2015
+Cyprus,Western Europe,0.92356,Health (Life Expectancy),2015
+Algeria,Middle East and Northern Africa,0.61766,Health (Life Expectancy),2015
+Kosovo,Central and Eastern Europe,0.63132,Health (Life Expectancy),2015
+Turkmenistan,Central and Eastern Europe,0.53886,Health (Life Expectancy),2015
+Mauritius,Sub-Saharan Africa,0.7095,Health (Life Expectancy),2015
+Hong Kong,Eastern Asia,1.01328,Health (Life Expectancy),2015
+Estonia,Central and Eastern Europe,0.77361,Health (Life Expectancy),2015
+Indonesia,Southeastern Asia,0.63793,Health (Life Expectancy),2015
+Vietnam,Southeastern Asia,0.74676,Health (Life Expectancy),2015
+Turkey,Middle East and Northern Africa,0.73172,Health (Life Expectancy),2015
+Kyrgyzstan,Central and Eastern Europe,0.65088,Health (Life Expectancy),2015
+Nigeria,Sub-Saharan Africa,0.16007,Health (Life Expectancy),2015
+Bhutan,Southern Asia,0.57407,Health (Life Expectancy),2015
+Azerbaijan,Central and Eastern Europe,0.64045,Health (Life Expectancy),2015
+Pakistan,Southern Asia,0.51466,Health (Life Expectancy),2015
+Jordan,Middle East and Northern Africa,0.69639,Health (Life Expectancy),2015
+Montenegro,Central and Eastern Europe,0.72521,Health (Life Expectancy),2015
+China,Eastern Asia,0.81658,Health (Life Expectancy),2015
+Zambia,Sub-Saharan Africa,0.29924,Health (Life Expectancy),2015
+Romania,Central and Eastern Europe,0.7689,Health (Life Expectancy),2015
+Serbia,Central and Eastern Europe,0.74836,Health (Life Expectancy),2015
+Portugal,Western Europe,0.87519,Health (Life Expectancy),2015
+Latvia,Central and Eastern Europe,0.72437,Health (Life Expectancy),2015
+Philippines,Southeastern Asia,0.58114,Health (Life Expectancy),2015
+Somaliland region,Sub-Saharan Africa,0.43873,Health (Life Expectancy),2015
+Morocco,Middle East and Northern Africa,0.60954,Health (Life Expectancy),2015
+Macedonia,Central and Eastern Europe,0.73545,Health (Life Expectancy),2015
+Mozambique,Sub-Saharan Africa,0.09131,Health (Life Expectancy),2015
+Albania,Central and Eastern Europe,0.81325,Health (Life Expectancy),2015
+Bosnia and Herzegovina,Central and Eastern Europe,0.79081,Health (Life Expectancy),2015
+Lesotho,Sub-Saharan Africa,0.07612,Health (Life Expectancy),2015
+Dominican Republic,Latin America and Caribbean,0.66825,Health (Life Expectancy),2015
+Laos,Southeastern Asia,0.54909,Health (Life Expectancy),2015
+Mongolia,Eastern Asia,0.60268,Health (Life Expectancy),2015
+Swaziland,Sub-Saharan Africa,0.07566,Health (Life Expectancy),2015
+Greece,Western Europe,0.88213,Health (Life Expectancy),2015
+Lebanon,Middle East and Northern Africa,0.83947,Health (Life Expectancy),2015
+Hungary,Central and Eastern Europe,0.75905,Health (Life Expectancy),2015
+Honduras,Latin America and Caribbean,0.6951,Health (Life Expectancy),2015
+Tajikistan,Central and Eastern Europe,0.57379,Health (Life Expectancy),2015
+Tunisia,Middle East and Northern Africa,0.73793,Health (Life Expectancy),2015
+Palestinian Territories,Middle East and Northern Africa,0.66015,Health (Life Expectancy),2015
+Bangladesh,Southern Asia,0.60164,Health (Life Expectancy),2015
+Iran,Middle East and Northern Africa,0.69805,Health (Life Expectancy),2015
+Ukraine,Central and Eastern Europe,0.6739,Health (Life Expectancy),2015
+Iraq,Middle East and Northern Africa,0.60237,Health (Life Expectancy),2015
+South Africa,Sub-Saharan Africa,0.27688,Health (Life Expectancy),2015
+Ghana,Sub-Saharan Africa,0.40132,Health (Life Expectancy),2015
+Zimbabwe,Sub-Saharan Africa,0.33475,Health (Life Expectancy),2015
+Liberia,Sub-Saharan Africa,0.34201,Health (Life Expectancy),2015
+India,Southern Asia,0.51529,Health (Life Expectancy),2015
+Sudan,Sub-Saharan Africa,0.36878,Health (Life Expectancy),2015
+Haiti,Latin America and Caribbean,0.38847,Health (Life Expectancy),2015
+Congo (Kinshasa),Sub-Saharan Africa,0.09806,Health (Life Expectancy),2015
+Nepal,Southern Asia,0.56874,Health (Life Expectancy),2015
+Ethiopia,Sub-Saharan Africa,0.44055,Health (Life Expectancy),2015
+Sierra Leone,Sub-Saharan Africa,0,Health (Life Expectancy),2015
+Mauritania,Sub-Saharan Africa,0.35874,Health (Life Expectancy),2015
+Kenya,Sub-Saharan Africa,0.41435,Health (Life Expectancy),2015
+Djibouti,Sub-Saharan Africa,0.36291,Health (Life Expectancy),2015
+Armenia,Central and Eastern Europe,0.7299,Health (Life Expectancy),2015
+Botswana,Sub-Saharan Africa,0.04776,Health (Life Expectancy),2015
+Myanmar,Southeastern Asia,0.48246,Health (Life Expectancy),2015
+Georgia,Central and Eastern Europe,0.72926,Health (Life Expectancy),2015
+Malawi,Sub-Saharan Africa,0.22562,Health (Life Expectancy),2015
+Sri Lanka,Southern Asia,0.70806,Health (Life Expectancy),2015
+Cameroon,Sub-Saharan Africa,0.23402,Health (Life Expectancy),2015
+Bulgaria,Central and Eastern Europe,0.76649,Health (Life Expectancy),2015
+Egypt,Middle East and Northern Africa,0.61712,Health (Life Expectancy),2015
+Yemen,Middle East and Northern Africa,0.40064,Health (Life Expectancy),2015
+Angola,Sub-Saharan Africa,0.16683,Health (Life Expectancy),2015
+Mali,Sub-Saharan Africa,0.20583,Health (Life Expectancy),2015
+Congo (Brazzaville),Sub-Saharan Africa,0.31051,Health (Life Expectancy),2015
+Comoros,Sub-Saharan Africa,0.36315,Health (Life Expectancy),2015
+Uganda,Sub-Saharan Africa,0.33861,Health (Life Expectancy),2015
+Senegal,Sub-Saharan Africa,0.4354,Health (Life Expectancy),2015
+Gabon,Sub-Saharan Africa,0.43372,Health (Life Expectancy),2015
+Niger,Sub-Saharan Africa,0.29707,Health (Life Expectancy),2015
+Cambodia,Southeastern Asia,0.61114,Health (Life Expectancy),2015
+Tanzania,Sub-Saharan Africa,0.38215,Health (Life Expectancy),2015
+Madagascar,Sub-Saharan Africa,0.46721,Health (Life Expectancy),2015
+Central African Republic,Sub-Saharan Africa,0.06699,Health (Life Expectancy),2015
+Chad,Sub-Saharan Africa,0.1501,Health (Life Expectancy),2015
+Guinea,Sub-Saharan Africa,0.24009,Health (Life Expectancy),2015
+Ivory Coast,Sub-Saharan Africa,0.15185,Health (Life Expectancy),2015
+Burkina Faso,Sub-Saharan Africa,0.27125,Health (Life Expectancy),2015
+Afghanistan,Southern Asia,0.30335,Health (Life Expectancy),2015
+Rwanda,Sub-Saharan Africa,0.42864,Health (Life Expectancy),2015
+Benin,Sub-Saharan Africa,0.3191,Health (Life Expectancy),2015
+Syria,Middle East and Northern Africa,0.72193,Health (Life Expectancy),2015
+Burundi,Sub-Saharan Africa,0.22396,Health (Life Expectancy),2015
+Togo,Sub-Saharan Africa,0.28443,Health (Life Expectancy),2015
+Denmark,Western Europe,0.79504,Health (Life Expectancy),2016
+Switzerland,Western Europe,0.86303,Health (Life Expectancy),2016
+Iceland,Western Europe,0.86733,Health (Life Expectancy),2016
+Norway,Western Europe,0.79579,Health (Life Expectancy),2016
+Finland,Western Europe,0.81091,Health (Life Expectancy),2016
+Canada,North America,0.8276,Health (Life Expectancy),2016
+Netherlands,Western Europe,0.81231,Health (Life Expectancy),2016
+New Zealand,Australia and New Zealand,0.83096,Health (Life Expectancy),2016
+Australia,Australia and New Zealand,0.8512,Health (Life Expectancy),2016
+Sweden,Western Europe,0.83121,Health (Life Expectancy),2016
+Israel,Middle East and Northern Africa,0.84917,Health (Life Expectancy),2016
+Austria,Western Europe,0.80565,Health (Life Expectancy),2016
+United States,North America,0.779,Health (Life Expectancy),2016
+Costa Rica,Latin America and Caribbean,0.76146,Health (Life Expectancy),2016
+Puerto Rico,Latin America and Caribbean,0.77758,Health (Life Expectancy),2016
+Germany,Western Europe,0.81487,Health (Life Expectancy),2016
+Brazil,Latin America and Caribbean,0.61415,Health (Life Expectancy),2016
+Belgium,Western Europe,0.81959,Health (Life Expectancy),2016
+Ireland,Western Europe,0.81455,Health (Life Expectancy),2016
+Luxembourg,Western Europe,0.84542,Health (Life Expectancy),2016
+Mexico,Latin America and Caribbean,0.71143,Health (Life Expectancy),2016
+Singapore,Southeastern Asia,0.94719,Health (Life Expectancy),2016
+United Kingdom,Western Europe,0.80991,Health (Life Expectancy),2016
+Chile,Latin America and Caribbean,0.81883,Health (Life Expectancy),2016
+Panama,Latin America and Caribbean,0.70835,Health (Life Expectancy),2016
+Argentina,Latin America and Caribbean,0.69711,Health (Life Expectancy),2016
+Czech Republic,Central and Eastern Europe,0.76376,Health (Life Expectancy),2016
+United Arab Emirates,Middle East and Northern Africa,0.72993,Health (Life Expectancy),2016
+Uruguay,Latin America and Caribbean,0.72183,Health (Life Expectancy),2016
+Malta,Western Europe,0.80315,Health (Life Expectancy),2016
+Colombia,Latin America and Caribbean,0.59659,Health (Life Expectancy),2016
+France,Western Europe,0.83795,Health (Life Expectancy),2016
+Thailand,Southeastern Asia,0.64915,Health (Life Expectancy),2016
+Saudi Arabia,Middle East and Northern Africa,0.59267,Health (Life Expectancy),2016
+Taiwan,Eastern Asia,0.79565,Health (Life Expectancy),2016
+Qatar,Middle East and Northern Africa,0.71723,Health (Life Expectancy),2016
+Spain,Western Europe,0.87896,Health (Life Expectancy),2016
+Algeria,Middle East and Northern Africa,0.61804,Health (Life Expectancy),2016
+Guatemala,Latin America and Caribbean,0.54039,Health (Life Expectancy),2016
+Suriname,Latin America and Caribbean,0.50933,Health (Life Expectancy),2016
+Kuwait,Middle East and Northern Africa,0.63569,Health (Life Expectancy),2016
+Bahrain,Middle East and Northern Africa,0.65696,Health (Life Expectancy),2016
+Trinidad and Tobago,Latin America and Caribbean,0.52608,Health (Life Expectancy),2016
+Venezuela,Latin America and Caribbean,0.61904,Health (Life Expectancy),2016
+Slovakia,Central and Eastern Europe,0.70367,Health (Life Expectancy),2016
+El Salvador,Latin America and Caribbean,0.596,Health (Life Expectancy),2016
+Malaysia,Southeastern Asia,0.62366,Health (Life Expectancy),2016
+Nicaragua,Latin America and Caribbean,0.65213,Health (Life Expectancy),2016
+Uzbekistan,Central and Eastern Europe,0.50163,Health (Life Expectancy),2016
+Italy,Western Europe,0.85102,Health (Life Expectancy),2016
+Ecuador,Latin America and Caribbean,0.68613,Health (Life Expectancy),2016
+Belize,Latin America and Caribbean,0.45569,Health (Life Expectancy),2016
+Japan,Eastern Asia,0.91491,Health (Life Expectancy),2016
+Kazakhstan,Central and Eastern Europe,0.57386,Health (Life Expectancy),2016
+Moldova,Central and Eastern Europe,0.52309,Health (Life Expectancy),2016
+Russia,Central and Eastern Europe,0.58991,Health (Life Expectancy),2016
+Poland,Central and Eastern Europe,0.69058,Health (Life Expectancy),2016
+South Korea,Eastern Asia,0.88645,Health (Life Expectancy),2016
+Bolivia,Latin America and Caribbean,0.4697,Health (Life Expectancy),2016
+Lithuania,Central and Eastern Europe,0.64674,Health (Life Expectancy),2016
+Belarus,Central and Eastern Europe,0.63104,Health (Life Expectancy),2016
+North Cyprus,Western Europe,0.84142,Health (Life Expectancy),2016
+Slovenia,Central and Eastern Europe,0.79151,Health (Life Expectancy),2016
+Peru,Latin America and Caribbean,0.62994,Health (Life Expectancy),2016
+Turkmenistan,Central and Eastern Europe,0.44006,Health (Life Expectancy),2016
+Mauritius,Sub-Saharan Africa,0.66189,Health (Life Expectancy),2016
+Libya,Middle East and Northern Africa,0.52304,Health (Life Expectancy),2016
+Latvia,Central and Eastern Europe,0.63952,Health (Life Expectancy),2016
+Cyprus,Western Europe,0.8488,Health (Life Expectancy),2016
+Paraguay,Latin America and Caribbean,0.58295,Health (Life Expectancy),2016
+Romania,Central and Eastern Europe,0.67602,Health (Life Expectancy),2016
+Estonia,Central and Eastern Europe,0.68098,Health (Life Expectancy),2016
+Jamaica,Latin America and Caribbean,0.59469,Health (Life Expectancy),2016
+Croatia,Central and Eastern Europe,0.70524,Health (Life Expectancy),2016
+Hong Kong,Eastern Asia,0.95277,Health (Life Expectancy),2016
+Somalia,Sub-Saharan Africa,0.11466,Health (Life Expectancy),2016
+Kosovo,Central and Eastern Europe,0.54,Health (Life Expectancy),2016
+Turkey,Middle East and Northern Africa,0.64718,Health (Life Expectancy),2016
+Indonesia,Southeastern Asia,0.49374,Health (Life Expectancy),2016
+Jordan,Middle East and Northern Africa,0.60712,Health (Life Expectancy),2016
+Azerbaijan,Central and Eastern Europe,0.54504,Health (Life Expectancy),2016
+Philippines,Southeastern Asia,0.47036,Health (Life Expectancy),2016
+China,Eastern Asia,0.73561,Health (Life Expectancy),2016
+Bhutan,Southern Asia,0.49759,Health (Life Expectancy),2016
+Kyrgyzstan,Central and Eastern Europe,0.55449,Health (Life Expectancy),2016
+Serbia,Central and Eastern Europe,0.6458,Health (Life Expectancy),2016
+Bosnia and Herzegovina,Central and Eastern Europe,0.70766,Health (Life Expectancy),2016
+Montenegro,Central and Eastern Europe,0.63533,Health (Life Expectancy),2016
+Dominican Republic,Latin America and Caribbean,0.57669,Health (Life Expectancy),2016
+Morocco,Middle East and Northern Africa,0.59471,Health (Life Expectancy),2016
+Hungary,Central and Eastern Europe,0.67608,Health (Life Expectancy),2016
+Pakistan,Southern Asia,0.40306,Health (Life Expectancy),2016
+Lebanon,Middle East and Northern Africa,0.76171,Health (Life Expectancy),2016
+Portugal,Western Europe,0.79363,Health (Life Expectancy),2016
+Macedonia,Central and Eastern Europe,0.64738,Health (Life Expectancy),2016
+Vietnam,Southeastern Asia,0.66157,Health (Life Expectancy),2016
+Somaliland Region,Sub-Saharan Africa,0.33108,Health (Life Expectancy),2016
+Tunisia,Middle East and Northern Africa,0.59577,Health (Life Expectancy),2016
+Greece,Western Europe,0.80029,Health (Life Expectancy),2016
+Tajikistan,Central and Eastern Europe,0.53119,Health (Life Expectancy),2016
+Mongolia,Eastern Asia,0.55469,Health (Life Expectancy),2016
+Laos,Southeastern Asia,0.38291,Health (Life Expectancy),2016
+Nigeria,Sub-Saharan Africa,0.05108,Health (Life Expectancy),2016
+Honduras,Latin America and Caribbean,0.58383,Health (Life Expectancy),2016
+Iran,Middle East and Northern Africa,0.64232,Health (Life Expectancy),2016
+Zambia,Sub-Saharan Africa,0.23573,Health (Life Expectancy),2016
+Nepal,Southern Asia,0.50073,Health (Life Expectancy),2016
+Palestinian Territories,Middle East and Northern Africa,0.56844,Health (Life Expectancy),2016
+Albania,Central and Eastern Europe,0.73007,Health (Life Expectancy),2016
+Bangladesh,Southern Asia,0.52989,Health (Life Expectancy),2016
+Sierra Leone,Sub-Saharan Africa,0,Health (Life Expectancy),2016
+Iraq,Middle East and Northern Africa,0.51076,Health (Life Expectancy),2016
+Namibia,Sub-Saharan Africa,0.34745,Health (Life Expectancy),2016
+Cameroon,Sub-Saharan Africa,0.12698,Health (Life Expectancy),2016
+Ethiopia,Sub-Saharan Africa,0.34578,Health (Life Expectancy),2016
+South Africa,Sub-Saharan Africa,0.18611,Health (Life Expectancy),2016
+Sri Lanka,Southern Asia,0.62007,Health (Life Expectancy),2016
+India,Southern Asia,0.45091,Health (Life Expectancy),2016
+Myanmar,Southeastern Asia,0.3988,Health (Life Expectancy),2016
+Egypt,Middle East and Northern Africa,0.52116,Health (Life Expectancy),2016
+Armenia,Central and Eastern Europe,0.64083,Health (Life Expectancy),2016
+Kenya,Sub-Saharan Africa,0.30147,Health (Life Expectancy),2016
+Ukraine,Central and Eastern Europe,0.58628,Health (Life Expectancy),2016
+Ghana,Sub-Saharan Africa,0.29681,Health (Life Expectancy),2016
+Congo (Kinshasa),Sub-Saharan Africa,0.188,Health (Life Expectancy),2016
+Georgia,Central and Eastern Europe,0.64035,Health (Life Expectancy),2016
+Congo (Brazzaville),Sub-Saharan Africa,0.28212,Health (Life Expectancy),2016
+Senegal,Sub-Saharan Africa,0.40457,Health (Life Expectancy),2016
+Bulgaria,Central and Eastern Europe,0.67806,Health (Life Expectancy),2016
+Mauritania,Sub-Saharan Africa,0.28639,Health (Life Expectancy),2016
+Zimbabwe,Sub-Saharan Africa,0.1595,Health (Life Expectancy),2016
+Malawi,Sub-Saharan Africa,0.29364,Health (Life Expectancy),2016
+Sudan,Sub-Saharan Africa,0.29759,Health (Life Expectancy),2016
+Gabon,Sub-Saharan Africa,0.3494,Health (Life Expectancy),2016
+Mali,Sub-Saharan Africa,0.16347,Health (Life Expectancy),2016
+Haiti,Latin America and Caribbean,0.27494,Health (Life Expectancy),2016
+Botswana,Sub-Saharan Africa,0.34752,Health (Life Expectancy),2016
+Comoros,Sub-Saharan Africa,0.29981,Health (Life Expectancy),2016
+Ivory Coast,Sub-Saharan Africa,0.04476,Health (Life Expectancy),2016
+Cambodia,Southeastern Asia,0.42494,Health (Life Expectancy),2016
+Angola,Sub-Saharan Africa,0.04991,Health (Life Expectancy),2016
+Niger,Sub-Saharan Africa,0.26162,Health (Life Expectancy),2016
+South Sudan,Sub-Saharan Africa,0.15781,Health (Life Expectancy),2016
+Chad,Sub-Saharan Africa,0.03824,Health (Life Expectancy),2016
+Burkina Faso,Sub-Saharan Africa,0.21297,Health (Life Expectancy),2016
+Uganda,Sub-Saharan Africa,0.19625,Health (Life Expectancy),2016
+Yemen,Middle East and Northern Africa,0.31048,Health (Life Expectancy),2016
+Madagascar,Sub-Saharan Africa,0.37109,Health (Life Expectancy),2016
+Tanzania,Sub-Saharan Africa,0.357,Health (Life Expectancy),2016
+Liberia,Sub-Saharan Africa,0.23165,Health (Life Expectancy),2016
+Guinea,Sub-Saharan Africa,0.18829,Health (Life Expectancy),2016
+Rwanda,Sub-Saharan Africa,0.31865,Health (Life Expectancy),2016
+Benin,Sub-Saharan Africa,0.21028,Health (Life Expectancy),2016
+Afghanistan,Southern Asia,0.17344,Health (Life Expectancy),2016
+Togo,Sub-Saharan Africa,0.24811,Health (Life Expectancy),2016
+Syria,Middle East and Northern Africa,0.62994,Health (Life Expectancy),2016
+Burundi,Sub-Saharan Africa,0.15747,Health (Life Expectancy),2016
+Switzerland,Western Europe,0.66557,Freedom,2015
+Iceland,Western Europe,0.62877,Freedom,2015
+Denmark,Western Europe,0.64938,Freedom,2015
+Norway,Western Europe,0.66973,Freedom,2015
+Canada,North America,0.63297,Freedom,2015
+Finland,Western Europe,0.64169,Freedom,2015
+Netherlands,Western Europe,0.61576,Freedom,2015
+Sweden,Western Europe,0.6598,Freedom,2015
+New Zealand,Australia and New Zealand,0.63938,Freedom,2015
+Australia,Australia and New Zealand,0.65124,Freedom,2015
+Israel,Middle East and Northern Africa,0.41319,Freedom,2015
+Costa Rica,Latin America and Caribbean,0.63376,Freedom,2015
+Austria,Western Europe,0.62433,Freedom,2015
+Mexico,Latin America and Caribbean,0.48181,Freedom,2015
+United States,North America,0.54604,Freedom,2015
+Brazil,Latin America and Caribbean,0.49049,Freedom,2015
+Luxembourg,Western Europe,0.61583,Freedom,2015
+Ireland,Western Europe,0.61777,Freedom,2015
+Belgium,Western Europe,0.5845,Freedom,2015
+United Arab Emirates,Middle East and Northern Africa,0.64157,Freedom,2015
+United Kingdom,Western Europe,0.59625,Freedom,2015
+Oman,Middle East and Northern Africa,0.63274,Freedom,2015
+Venezuela,Latin America and Caribbean,0.42908,Freedom,2015
+Singapore,Southeastern Asia,0.54252,Freedom,2015
+Panama,Latin America and Caribbean,0.5421,Freedom,2015
+Germany,Western Europe,0.61477,Freedom,2015
+Chile,Latin America and Caribbean,0.44132,Freedom,2015
+Qatar,Middle East and Northern Africa,0.6404,Freedom,2015
+France,Western Europe,0.55011,Freedom,2015
+Argentina,Latin America and Caribbean,0.44974,Freedom,2015
+Czech Republic,Central and Eastern Europe,0.46364,Freedom,2015
+Uruguay,Latin America and Caribbean,0.60362,Freedom,2015
+Colombia,Latin America and Caribbean,0.53466,Freedom,2015
+Thailand,Southeastern Asia,0.55664,Freedom,2015
+Saudi Arabia,Middle East and Northern Africa,0.31048,Freedom,2015
+Spain,Western Europe,0.45951,Freedom,2015
+Malta,Western Europe,0.60365,Freedom,2015
+Taiwan,Eastern Asia,0.3974,Freedom,2015
+Kuwait,Middle East and Northern Africa,0.55499,Freedom,2015
+Suriname,Latin America and Caribbean,0.59657,Freedom,2015
+Trinidad and Tobago,Latin America and Caribbean,0.55884,Freedom,2015
+El Salvador,Latin America and Caribbean,0.4035,Freedom,2015
+Guatemala,Latin America and Caribbean,0.57733,Freedom,2015
+Uzbekistan,Central and Eastern Europe,0.65821,Freedom,2015
+Slovakia,Central and Eastern Europe,0.31751,Freedom,2015
+Japan,Eastern Asia,0.49615,Freedom,2015
+South Korea,Eastern Asia,0.33208,Freedom,2015
+Ecuador,Latin America and Caribbean,0.48574,Freedom,2015
+Bahrain,Middle East and Northern Africa,0.45492,Freedom,2015
+Italy,Western Europe,0.26236,Freedom,2015
+Bolivia,Latin America and Caribbean,0.57414,Freedom,2015
+Moldova,Central and Eastern Europe,0.32818,Freedom,2015
+Paraguay,Latin America and Caribbean,0.53899,Freedom,2015
+Kazakhstan,Central and Eastern Europe,0.51649,Freedom,2015
+Slovenia,Central and Eastern Europe,0.60855,Freedom,2015
+Lithuania,Central and Eastern Europe,0.21342,Freedom,2015
+Nicaragua,Latin America and Caribbean,0.55475,Freedom,2015
+Peru,Latin America and Caribbean,0.41496,Freedom,2015
+Belarus,Central and Eastern Europe,0.37938,Freedom,2015
+Poland,Central and Eastern Europe,0.53122,Freedom,2015
+Malaysia,Southeastern Asia,0.53024,Freedom,2015
+Croatia,Central and Eastern Europe,0.25883,Freedom,2015
+Libya,Middle East and Northern Africa,0.41668,Freedom,2015
+Russia,Central and Eastern Europe,0.36679,Freedom,2015
+Jamaica,Latin America and Caribbean,0.50442,Freedom,2015
+North Cyprus,Western Europe,0.49027,Freedom,2015
+Cyprus,Western Europe,0.40672,Freedom,2015
+Algeria,Middle East and Northern Africa,0.28579,Freedom,2015
+Kosovo,Central and Eastern Europe,0.24749,Freedom,2015
+Turkmenistan,Central and Eastern Europe,0.4761,Freedom,2015
+Mauritius,Sub-Saharan Africa,0.56066,Freedom,2015
+Hong Kong,Eastern Asia,0.59608,Freedom,2015
+Estonia,Central and Eastern Europe,0.44888,Freedom,2015
+Indonesia,Southeastern Asia,0.46611,Freedom,2015
+Vietnam,Southeastern Asia,0.59444,Freedom,2015
+Turkey,Middle East and Northern Africa,0.22815,Freedom,2015
+Kyrgyzstan,Central and Eastern Europe,0.43477,Freedom,2015
+Nigeria,Sub-Saharan Africa,0.34334,Freedom,2015
+Bhutan,Southern Asia,0.53206,Freedom,2015
+Azerbaijan,Central and Eastern Europe,0.3703,Freedom,2015
+Pakistan,Southern Asia,0.12102,Freedom,2015
+Jordan,Middle East and Northern Africa,0.40661,Freedom,2015
+Montenegro,Central and Eastern Europe,0.1826,Freedom,2015
+China,Eastern Asia,0.51697,Freedom,2015
+Zambia,Sub-Saharan Africa,0.48827,Freedom,2015
+Romania,Central and Eastern Europe,0.35068,Freedom,2015
+Serbia,Central and Eastern Europe,0.20107,Freedom,2015
+Portugal,Western Europe,0.51469,Freedom,2015
+Latvia,Central and Eastern Europe,0.29671,Freedom,2015
+Philippines,Southeastern Asia,0.62545,Freedom,2015
+Somaliland region,Sub-Saharan Africa,0.46582,Freedom,2015
+Morocco,Middle East and Northern Africa,0.41691,Freedom,2015
+Macedonia,Central and Eastern Europe,0.33457,Freedom,2015
+Mozambique,Sub-Saharan Africa,0.34037,Freedom,2015
+Albania,Central and Eastern Europe,0.35733,Freedom,2015
+Bosnia and Herzegovina,Central and Eastern Europe,0.09245,Freedom,2015
+Lesotho,Sub-Saharan Africa,0.31767,Freedom,2015
+Dominican Republic,Latin America and Caribbean,0.57672,Freedom,2015
+Laos,Southeastern Asia,0.59591,Freedom,2015
+Mongolia,Eastern Asia,0.43626,Freedom,2015
+Swaziland,Sub-Saharan Africa,0.30658,Freedom,2015
+Greece,Western Europe,0.07699,Freedom,2015
+Lebanon,Middle East and Northern Africa,0.33916,Freedom,2015
+Hungary,Central and Eastern Europe,0.32112,Freedom,2015
+Honduras,Latin America and Caribbean,0.40148,Freedom,2015
+Tajikistan,Central and Eastern Europe,0.47216,Freedom,2015
+Tunisia,Middle East and Northern Africa,0.26268,Freedom,2015
+Palestinian Territories,Middle East and Northern Africa,0.24499,Freedom,2015
+Bangladesh,Southern Asia,0.4082,Freedom,2015
+Iran,Middle East and Northern Africa,0.30033,Freedom,2015
+Ukraine,Central and Eastern Europe,0.25123,Freedom,2015
+Iraq,Middle East and Northern Africa,0,Freedom,2015
+South Africa,Sub-Saharan Africa,0.33207,Freedom,2015
+Ghana,Sub-Saharan Africa,0.42342,Freedom,2015
+Zimbabwe,Sub-Saharan Africa,0.25861,Freedom,2015
+Liberia,Sub-Saharan Africa,0.28531,Freedom,2015
+India,Southern Asia,0.39786,Freedom,2015
+Sudan,Sub-Saharan Africa,0.10081,Freedom,2015
+Haiti,Latin America and Caribbean,0.24425,Freedom,2015
+Congo (Kinshasa),Sub-Saharan Africa,0.22605,Freedom,2015
+Nepal,Southern Asia,0.38282,Freedom,2015
+Ethiopia,Sub-Saharan Africa,0.4345,Freedom,2015
+Sierra Leone,Sub-Saharan Africa,0.4084,Freedom,2015
+Mauritania,Sub-Saharan Africa,0.24232,Freedom,2015
+Kenya,Sub-Saharan Africa,0.42215,Freedom,2015
+Djibouti,Sub-Saharan Africa,0.46074,Freedom,2015
+Armenia,Central and Eastern Europe,0.19847,Freedom,2015
+Botswana,Sub-Saharan Africa,0.49495,Freedom,2015
+Myanmar,Southeastern Asia,0.44017,Freedom,2015
+Georgia,Central and Eastern Europe,0.40577,Freedom,2015
+Malawi,Sub-Saharan Africa,0.43054,Freedom,2015
+Sri Lanka,Southern Asia,0.53726,Freedom,2015
+Cameroon,Sub-Saharan Africa,0.49309,Freedom,2015
+Bulgaria,Central and Eastern Europe,0.30587,Freedom,2015
+Egypt,Middle East and Northern Africa,0.17288,Freedom,2015
+Yemen,Middle East and Northern Africa,0.35571,Freedom,2015
+Angola,Sub-Saharan Africa,0.10384,Freedom,2015
+Mali,Sub-Saharan Africa,0.38857,Freedom,2015
+Congo (Brazzaville),Sub-Saharan Africa,0.41466,Freedom,2015
+Comoros,Sub-Saharan Africa,0.22917,Freedom,2015
+Uganda,Sub-Saharan Africa,0.45727,Freedom,2015
+Senegal,Sub-Saharan Africa,0.36772,Freedom,2015
+Gabon,Sub-Saharan Africa,0.31914,Freedom,2015
+Niger,Sub-Saharan Africa,0.47692,Freedom,2015
+Cambodia,Southeastern Asia,0.66246,Freedom,2015
+Tanzania,Sub-Saharan Africa,0.32878,Freedom,2015
+Madagascar,Sub-Saharan Africa,0.19184,Freedom,2015
+Central African Republic,Sub-Saharan Africa,0.48879,Freedom,2015
+Chad,Sub-Saharan Africa,0.23501,Freedom,2015
+Guinea,Sub-Saharan Africa,0.37725,Freedom,2015
+Ivory Coast,Sub-Saharan Africa,0.46866,Freedom,2015
+Burkina Faso,Sub-Saharan Africa,0.39493,Freedom,2015
+Afghanistan,Southern Asia,0.23414,Freedom,2015
+Rwanda,Sub-Saharan Africa,0.59201,Freedom,2015
+Benin,Sub-Saharan Africa,0.4845,Freedom,2015
+Syria,Middle East and Northern Africa,0.15684,Freedom,2015
+Burundi,Sub-Saharan Africa,0.1185,Freedom,2015
+Togo,Sub-Saharan Africa,0.36453,Freedom,2015
+Denmark,Western Europe,0.57941,Freedom,2016
+Switzerland,Western Europe,0.58557,Freedom,2016
+Iceland,Western Europe,0.56624,Freedom,2016
+Norway,Western Europe,0.59609,Freedom,2016
+Finland,Western Europe,0.57104,Freedom,2016
+Canada,North America,0.5737,Freedom,2016
+Netherlands,Western Europe,0.55211,Freedom,2016
+New Zealand,Australia and New Zealand,0.58147,Freedom,2016
+Australia,Australia and New Zealand,0.56837,Freedom,2016
+Sweden,Western Europe,0.58218,Freedom,2016
+Israel,Middle East and Northern Africa,0.36432,Freedom,2016
+Austria,Western Europe,0.54355,Freedom,2016
+United States,North America,0.48163,Freedom,2016
+Costa Rica,Latin America and Caribbean,0.55225,Freedom,2016
+Puerto Rico,Latin America and Caribbean,0.46823,Freedom,2016
+Germany,Western Europe,0.53466,Freedom,2016
+Brazil,Latin America and Caribbean,0.40425,Freedom,2016
+Belgium,Western Europe,0.51354,Freedom,2016
+Ireland,Western Europe,0.54008,Freedom,2016
+Luxembourg,Western Europe,0.5487,Freedom,2016
+Mexico,Latin America and Caribbean,0.37709,Freedom,2016
+Singapore,Southeastern Asia,0.4877,Freedom,2016
+United Kingdom,Western Europe,0.50036,Freedom,2016
+Chile,Latin America and Caribbean,0.37789,Freedom,2016
+Panama,Latin America and Caribbean,0.48927,Freedom,2016
+Argentina,Latin America and Caribbean,0.42284,Freedom,2016
+Czech Republic,Central and Eastern Europe,0.41418,Freedom,2016
+United Arab Emirates,Middle East and Northern Africa,0.56215,Freedom,2016
+Uruguay,Latin America and Caribbean,0.54388,Freedom,2016
+Malta,Western Europe,0.54994,Freedom,2016
+Colombia,Latin America and Caribbean,0.44735,Freedom,2016
+France,Western Europe,0.46562,Freedom,2016
+Thailand,Southeastern Asia,0.49553,Freedom,2016
+Saudi Arabia,Middle East and Northern Africa,0.37904,Freedom,2016
+Taiwan,Eastern Asia,0.32377,Freedom,2016
+Qatar,Middle East and Northern Africa,0.56679,Freedom,2016
+Spain,Western Europe,0.37545,Freedom,2016
+Algeria,Middle East and Northern Africa,0.21006,Freedom,2016
+Guatemala,Latin America and Caribbean,0.50379,Freedom,2016
+Suriname,Latin America and Caribbean,0.52234,Freedom,2016
+Kuwait,Middle East and Northern Africa,0.43166,Freedom,2016
+Bahrain,Middle East and Northern Africa,0.47375,Freedom,2016
+Trinidad and Tobago,Latin America and Caribbean,0.48453,Freedom,2016
+Venezuela,Latin America and Caribbean,0.19847,Freedom,2016
+Slovakia,Central and Eastern Europe,0.23391,Freedom,2016
+El Salvador,Latin America and Caribbean,0.37269,Freedom,2016
+Malaysia,Southeastern Asia,0.39031,Freedom,2016
+Nicaragua,Latin America and Caribbean,0.46582,Freedom,2016
+Uzbekistan,Central and Eastern Europe,0.60848,Freedom,2016
+Italy,Western Europe,0.18827,Freedom,2016
+Ecuador,Latin America and Caribbean,0.4027,Freedom,2016
+Belize,Latin America and Caribbean,0.51231,Freedom,2016
+Japan,Eastern Asia,0.46761,Freedom,2016
+Kazakhstan,Central and Eastern Europe,0.4052,Freedom,2016
+Moldova,Central and Eastern Europe,0.25202,Freedom,2016
+Russia,Central and Eastern Europe,0.32682,Freedom,2016
+Poland,Central and Eastern Europe,0.4519,Freedom,2016
+South Korea,Eastern Asia,0.25168,Freedom,2016
+Bolivia,Latin America and Caribbean,0.50961,Freedom,2016
+Lithuania,Central and Eastern Europe,0.18929,Freedom,2016
+Belarus,Central and Eastern Europe,0.29091,Freedom,2016
+North Cyprus,Western Europe,0.43596,Freedom,2016
+Slovenia,Central and Eastern Europe,0.53164,Freedom,2016
+Peru,Latin America and Caribbean,0.37502,Freedom,2016
+Turkmenistan,Central and Eastern Europe,0.37408,Freedom,2016
+Mauritius,Sub-Saharan Africa,0.46145,Freedom,2016
+Libya,Middle East and Northern Africa,0.40672,Freedom,2016
+Latvia,Central and Eastern Europe,0.27996,Freedom,2016
+Cyprus,Western Europe,0.29507,Freedom,2016
+Paraguay,Latin America and Caribbean,0.46235,Freedom,2016
+Romania,Central and Eastern Europe,0.36712,Freedom,2016
+Estonia,Central and Eastern Europe,0.41511,Freedom,2016
+Jamaica,Latin America and Caribbean,0.43597,Freedom,2016
+Croatia,Central and Eastern Europe,0.23907,Freedom,2016
+Hong Kong,Eastern Asia,0.48079,Freedom,2016
+Somalia,Sub-Saharan Africa,0.56778,Freedom,2016
+Kosovo,Central and Eastern Europe,0.14396,Freedom,2016
+Turkey,Middle East and Northern Africa,0.23889,Freedom,2016
+Indonesia,Southeastern Asia,0.39237,Freedom,2016
+Jordan,Middle East and Northern Africa,0.36023,Freedom,2016
+Azerbaijan,Central and Eastern Europe,0.35327,Freedom,2016
+Philippines,Southeastern Asia,0.54854,Freedom,2016
+China,Eastern Asia,0.44012,Freedom,2016
+Bhutan,Southern Asia,0.46074,Freedom,2016
+Kyrgyzstan,Central and Eastern Europe,0.40212,Freedom,2016
+Serbia,Central and Eastern Europe,0.15718,Freedom,2016
+Bosnia and Herzegovina,Central and Eastern Europe,0.09511,Freedom,2016
+Montenegro,Central and Eastern Europe,0.15111,Freedom,2016
+Dominican Republic,Latin America and Caribbean,0.52259,Freedom,2016
+Morocco,Middle East and Northern Africa,0.25646,Freedom,2016
+Hungary,Central and Eastern Europe,0.1977,Freedom,2016
+Pakistan,Southern Asia,0.14622,Freedom,2016
+Lebanon,Middle East and Northern Africa,0.26228,Freedom,2016
+Portugal,Western Europe,0.44727,Freedom,2016
+Macedonia,Central and Eastern Europe,0.27668,Freedom,2016
+Vietnam,Southeastern Asia,0.55954,Freedom,2016
+Somaliland Region,Sub-Saharan Africa,0.3913,Freedom,2016
+Tunisia,Middle East and Northern Africa,0.23553,Freedom,2016
+Greece,Western Europe,0.05822,Freedom,2016
+Tajikistan,Central and Eastern Europe,0.43408,Freedom,2016
+Mongolia,Eastern Asia,0.35972,Freedom,2016
+Laos,Southeastern Asia,0.52168,Freedom,2016
+Nigeria,Sub-Saharan Africa,0.27854,Freedom,2016
+Honduras,Latin America and Caribbean,0.26755,Freedom,2016
+Iran,Middle East and Northern Africa,0.22544,Freedom,2016
+Zambia,Sub-Saharan Africa,0.42662,Freedom,2016
+Nepal,Southern Asia,0.37012,Freedom,2016
+Palestinian Territories,Middle East and Northern Africa,0.17744,Freedom,2016
+Albania,Central and Eastern Europe,0.31866,Freedom,2016
+Bangladesh,Southern Asia,0.39778,Freedom,2016
+Sierra Leone,Sub-Saharan Africa,0.30685,Freedom,2016
+Iraq,Middle East and Northern Africa,0.24856,Freedom,2016
+Namibia,Sub-Saharan Africa,0.48614,Freedom,2016
+Cameroon,Sub-Saharan Africa,0.42736,Freedom,2016
+Ethiopia,Sub-Saharan Africa,0.36703,Freedom,2016
+South Africa,Sub-Saharan Africa,0.42483,Freedom,2016
+Sri Lanka,Southern Asia,0.50817,Freedom,2016
+India,Southern Asia,0.40285,Freedom,2016
+Myanmar,Southeastern Asia,0.42692,Freedom,2016
+Egypt,Middle East and Northern Africa,0.18847,Freedom,2016
+Armenia,Central and Eastern Europe,0.14037,Freedom,2016
+Kenya,Sub-Saharan Africa,0.40576,Freedom,2016
+Ukraine,Central and Eastern Europe,0.12859,Freedom,2016
+Ghana,Sub-Saharan Africa,0.40973,Freedom,2016
+Congo (Kinshasa),Sub-Saharan Africa,0.15602,Freedom,2016
+Georgia,Central and Eastern Europe,0.32461,Freedom,2016
+Congo (Brazzaville),Sub-Saharan Africa,0.37938,Freedom,2016
+Senegal,Sub-Saharan Africa,0.31056,Freedom,2016
+Bulgaria,Central and Eastern Europe,0.21219,Freedom,2016
+Mauritania,Sub-Saharan Africa,0.1268,Freedom,2016
+Zimbabwe,Sub-Saharan Africa,0.25429,Freedom,2016
+Malawi,Sub-Saharan Africa,0.4143,Freedom,2016
+Sudan,Sub-Saharan Africa,0,Freedom,2016
+Gabon,Sub-Saharan Africa,0.28098,Freedom,2016
+Mali,Sub-Saharan Africa,0.27544,Freedom,2016
+Haiti,Latin America and Caribbean,0.12072,Freedom,2016
+Botswana,Sub-Saharan Africa,0.44089,Freedom,2016
+Comoros,Sub-Saharan Africa,0.15412,Freedom,2016
+Ivory Coast,Sub-Saharan Africa,0.40663,Freedom,2016
+Cambodia,Southeastern Asia,0.58852,Freedom,2016
+Angola,Sub-Saharan Africa,0.00589,Freedom,2016
+Niger,Sub-Saharan Africa,0.38041,Freedom,2016
+South Sudan,Sub-Saharan Africa,0.19662,Freedom,2016
+Chad,Sub-Saharan Africa,0.12807,Freedom,2016
+Burkina Faso,Sub-Saharan Africa,0.3337,Freedom,2016
+Uganda,Sub-Saharan Africa,0.43653,Freedom,2016
+Yemen,Middle East and Northern Africa,0.2287,Freedom,2016
+Madagascar,Sub-Saharan Africa,0.13684,Freedom,2016
+Tanzania,Sub-Saharan Africa,0.3176,Freedom,2016
+Liberia,Sub-Saharan Africa,0.25748,Freedom,2016
+Guinea,Sub-Saharan Africa,0.30953,Freedom,2016
+Rwanda,Sub-Saharan Africa,0.5432,Freedom,2016
+Benin,Sub-Saharan Africa,0.39747,Freedom,2016
+Afghanistan,Southern Asia,0.1643,Freedom,2016
+Togo,Sub-Saharan Africa,0.34678,Freedom,2016
+Syria,Middle East and Northern Africa,0.06912,Freedom,2016
+Burundi,Sub-Saharan Africa,0.0432,Freedom,2016
+Switzerland,Western Europe,0.41978,Trust (Government Corruption),2015
+Iceland,Western Europe,0.14145,Trust (Government Corruption),2015
+Denmark,Western Europe,0.48357,Trust (Government Corruption),2015
+Norway,Western Europe,0.36503,Trust (Government Corruption),2015
+Canada,North America,0.32957,Trust (Government Corruption),2015
+Finland,Western Europe,0.41372,Trust (Government Corruption),2015
+Netherlands,Western Europe,0.31814,Trust (Government Corruption),2015
+Sweden,Western Europe,0.43844,Trust (Government Corruption),2015
+New Zealand,Australia and New Zealand,0.42922,Trust (Government Corruption),2015
+Australia,Australia and New Zealand,0.35637,Trust (Government Corruption),2015
+Israel,Middle East and Northern Africa,0.07785,Trust (Government Corruption),2015
+Costa Rica,Latin America and Caribbean,0.10583,Trust (Government Corruption),2015
+Austria,Western Europe,0.18676,Trust (Government Corruption),2015
+Mexico,Latin America and Caribbean,0.21312,Trust (Government Corruption),2015
+United States,North America,0.1589,Trust (Government Corruption),2015
+Brazil,Latin America and Caribbean,0.17521,Trust (Government Corruption),2015
+Luxembourg,Western Europe,0.37798,Trust (Government Corruption),2015
+Ireland,Western Europe,0.28703,Trust (Government Corruption),2015
+Belgium,Western Europe,0.2254,Trust (Government Corruption),2015
+United Arab Emirates,Middle East and Northern Africa,0.38583,Trust (Government Corruption),2015
+United Kingdom,Western Europe,0.32067,Trust (Government Corruption),2015
+Oman,Middle East and Northern Africa,0.32524,Trust (Government Corruption),2015
+Venezuela,Latin America and Caribbean,0.11069,Trust (Government Corruption),2015
+Singapore,Southeastern Asia,0.4921,Trust (Government Corruption),2015
+Panama,Latin America and Caribbean,0.0927,Trust (Government Corruption),2015
+Germany,Western Europe,0.21843,Trust (Government Corruption),2015
+Chile,Latin America and Caribbean,0.12869,Trust (Government Corruption),2015
+Qatar,Middle East and Northern Africa,0.52208,Trust (Government Corruption),2015
+France,Western Europe,0.20646,Trust (Government Corruption),2015
+Argentina,Latin America and Caribbean,0.08484,Trust (Government Corruption),2015
+Czech Republic,Central and Eastern Europe,0.02652,Trust (Government Corruption),2015
+Uruguay,Latin America and Caribbean,0.24558,Trust (Government Corruption),2015
+Colombia,Latin America and Caribbean,0.0512,Trust (Government Corruption),2015
+Thailand,Southeastern Asia,0.03187,Trust (Government Corruption),2015
+Saudi Arabia,Middle East and Northern Africa,0.32524,Trust (Government Corruption),2015
+Spain,Western Europe,0.06398,Trust (Government Corruption),2015
+Malta,Western Europe,0.13586,Trust (Government Corruption),2015
+Taiwan,Eastern Asia,0.08129,Trust (Government Corruption),2015
+Kuwait,Middle East and Northern Africa,0.25609,Trust (Government Corruption),2015
+Suriname,Latin America and Caribbean,0.13633,Trust (Government Corruption),2015
+Trinidad and Tobago,Latin America and Caribbean,0.0114,Trust (Government Corruption),2015
+El Salvador,Latin America and Caribbean,0.11776,Trust (Government Corruption),2015
+Guatemala,Latin America and Caribbean,0.09472,Trust (Government Corruption),2015
+Uzbekistan,Central and Eastern Europe,0.30826,Trust (Government Corruption),2015
+Slovakia,Central and Eastern Europe,0.03431,Trust (Government Corruption),2015
+Japan,Eastern Asia,0.1806,Trust (Government Corruption),2015
+South Korea,Eastern Asia,0.07857,Trust (Government Corruption),2015
+Ecuador,Latin America and Caribbean,0.1809,Trust (Government Corruption),2015
+Bahrain,Middle East and Northern Africa,0.306,Trust (Government Corruption),2015
+Italy,Western Europe,0.02901,Trust (Government Corruption),2015
+Bolivia,Latin America and Caribbean,0.088,Trust (Government Corruption),2015
+Moldova,Central and Eastern Europe,0.01615,Trust (Government Corruption),2015
+Paraguay,Latin America and Caribbean,0.08242,Trust (Government Corruption),2015
+Kazakhstan,Central and Eastern Europe,0.08454,Trust (Government Corruption),2015
+Slovenia,Central and Eastern Europe,0.03787,Trust (Government Corruption),2015
+Lithuania,Central and Eastern Europe,0.01031,Trust (Government Corruption),2015
+Nicaragua,Latin America and Caribbean,0.19317,Trust (Government Corruption),2015
+Peru,Latin America and Caribbean,0.05989,Trust (Government Corruption),2015
+Belarus,Central and Eastern Europe,0.1909,Trust (Government Corruption),2015
+Poland,Central and Eastern Europe,0.04212,Trust (Government Corruption),2015
+Malaysia,Southeastern Asia,0.10501,Trust (Government Corruption),2015
+Croatia,Central and Eastern Europe,0.0243,Trust (Government Corruption),2015
+Libya,Middle East and Northern Africa,0.11023,Trust (Government Corruption),2015
+Russia,Central and Eastern Europe,0.03005,Trust (Government Corruption),2015
+Jamaica,Latin America and Caribbean,0.02299,Trust (Government Corruption),2015
+North Cyprus,Western Europe,0.1428,Trust (Government Corruption),2015
+Cyprus,Western Europe,0.06146,Trust (Government Corruption),2015
+Algeria,Middle East and Northern Africa,0.17383,Trust (Government Corruption),2015
+Kosovo,Central and Eastern Europe,0.04741,Trust (Government Corruption),2015
+Turkmenistan,Central and Eastern Europe,0.30844,Trust (Government Corruption),2015
+Mauritius,Sub-Saharan Africa,0.07521,Trust (Government Corruption),2015
+Hong Kong,Eastern Asia,0.37124,Trust (Government Corruption),2015
+Estonia,Central and Eastern Europe,0.15184,Trust (Government Corruption),2015
+Indonesia,Southeastern Asia,0,Trust (Government Corruption),2015
+Vietnam,Southeastern Asia,0.10441,Trust (Government Corruption),2015
+Turkey,Middle East and Northern Africa,0.15746,Trust (Government Corruption),2015
+Kyrgyzstan,Central and Eastern Europe,0.04232,Trust (Government Corruption),2015
+Nigeria,Sub-Saharan Africa,0.0403,Trust (Government Corruption),2015
+Bhutan,Southern Asia,0.15445,Trust (Government Corruption),2015
+Azerbaijan,Central and Eastern Europe,0.16065,Trust (Government Corruption),2015
+Pakistan,Southern Asia,0.10464,Trust (Government Corruption),2015
+Jordan,Middle East and Northern Africa,0.14293,Trust (Government Corruption),2015
+Montenegro,Central and Eastern Europe,0.14296,Trust (Government Corruption),2015
+China,Eastern Asia,0.02781,Trust (Government Corruption),2015
+Zambia,Sub-Saharan Africa,0.12468,Trust (Government Corruption),2015
+Romania,Central and Eastern Europe,0.00649,Trust (Government Corruption),2015
+Serbia,Central and Eastern Europe,0.02617,Trust (Government Corruption),2015
+Portugal,Western Europe,0.01078,Trust (Government Corruption),2015
+Latvia,Central and Eastern Europe,0.06332,Trust (Government Corruption),2015
+Philippines,Southeastern Asia,0.12279,Trust (Government Corruption),2015
+Somaliland region,Sub-Saharan Africa,0.39928,Trust (Government Corruption),2015
+Morocco,Middle East and Northern Africa,0.08546,Trust (Government Corruption),2015
+Macedonia,Central and Eastern Europe,0.05327,Trust (Government Corruption),2015
+Mozambique,Sub-Saharan Africa,0.15603,Trust (Government Corruption),2015
+Albania,Central and Eastern Europe,0.06413,Trust (Government Corruption),2015
+Bosnia and Herzegovina,Central and Eastern Europe,0.00227,Trust (Government Corruption),2015
+Lesotho,Sub-Saharan Africa,0.12504,Trust (Government Corruption),2015
+Dominican Republic,Latin America and Caribbean,0.14234,Trust (Government Corruption),2015
+Laos,Southeastern Asia,0.24249,Trust (Government Corruption),2015
+Mongolia,Eastern Asia,0.02666,Trust (Government Corruption),2015
+Swaziland,Sub-Saharan Africa,0.0306,Trust (Government Corruption),2015
+Greece,Western Europe,0.01397,Trust (Government Corruption),2015
+Lebanon,Middle East and Northern Africa,0.04582,Trust (Government Corruption),2015
+Hungary,Central and Eastern Europe,0.02758,Trust (Government Corruption),2015
+Honduras,Latin America and Caribbean,0.06825,Trust (Government Corruption),2015
+Tajikistan,Central and Eastern Europe,0.15072,Trust (Government Corruption),2015
+Tunisia,Middle East and Northern Africa,0.06358,Trust (Government Corruption),2015
+Palestinian Territories,Middle East and Northern Africa,0.12905,Trust (Government Corruption),2015
+Bangladesh,Southern Asia,0.12569,Trust (Government Corruption),2015
+Iran,Middle East and Northern Africa,0.05863,Trust (Government Corruption),2015
+Ukraine,Central and Eastern Europe,0.02961,Trust (Government Corruption),2015
+Iraq,Middle East and Northern Africa,0.13788,Trust (Government Corruption),2015
+South Africa,Sub-Saharan Africa,0.08884,Trust (Government Corruption),2015
+Ghana,Sub-Saharan Africa,0.04355,Trust (Government Corruption),2015
+Zimbabwe,Sub-Saharan Africa,0.08079,Trust (Government Corruption),2015
+Liberia,Sub-Saharan Africa,0.06232,Trust (Government Corruption),2015
+India,Southern Asia,0.08492,Trust (Government Corruption),2015
+Sudan,Sub-Saharan Africa,0.1466,Trust (Government Corruption),2015
+Haiti,Latin America and Caribbean,0.17175,Trust (Government Corruption),2015
+Congo (Kinshasa),Sub-Saharan Africa,0.07625,Trust (Government Corruption),2015
+Nepal,Southern Asia,0.05907,Trust (Government Corruption),2015
+Ethiopia,Sub-Saharan Africa,0.15048,Trust (Government Corruption),2015
+Sierra Leone,Sub-Saharan Africa,0.08786,Trust (Government Corruption),2015
+Mauritania,Sub-Saharan Africa,0.17461,Trust (Government Corruption),2015
+Kenya,Sub-Saharan Africa,0.05839,Trust (Government Corruption),2015
+Djibouti,Sub-Saharan Africa,0.28105,Trust (Government Corruption),2015
+Armenia,Central and Eastern Europe,0.039,Trust (Government Corruption),2015
+Botswana,Sub-Saharan Africa,0.12474,Trust (Government Corruption),2015
+Myanmar,Southeastern Asia,0.19034,Trust (Government Corruption),2015
+Georgia,Central and Eastern Europe,0.38331,Trust (Government Corruption),2015
+Malawi,Sub-Saharan Africa,0.06977,Trust (Government Corruption),2015
+Sri Lanka,Southern Asia,0.09179,Trust (Government Corruption),2015
+Cameroon,Sub-Saharan Africa,0.05786,Trust (Government Corruption),2015
+Bulgaria,Central and Eastern Europe,0.00872,Trust (Government Corruption),2015
+Egypt,Middle East and Northern Africa,0.06324,Trust (Government Corruption),2015
+Yemen,Middle East and Northern Africa,0.07854,Trust (Government Corruption),2015
+Angola,Sub-Saharan Africa,0.07122,Trust (Government Corruption),2015
+Mali,Sub-Saharan Africa,0.12352,Trust (Government Corruption),2015
+Congo (Brazzaville),Sub-Saharan Africa,0.11686,Trust (Government Corruption),2015
+Comoros,Sub-Saharan Africa,0.199,Trust (Government Corruption),2015
+Uganda,Sub-Saharan Africa,0.07267,Trust (Government Corruption),2015
+Senegal,Sub-Saharan Africa,0.10713,Trust (Government Corruption),2015
+Gabon,Sub-Saharan Africa,0.11091,Trust (Government Corruption),2015
+Niger,Sub-Saharan Africa,0.15639,Trust (Government Corruption),2015
+Cambodia,Southeastern Asia,0.07247,Trust (Government Corruption),2015
+Tanzania,Sub-Saharan Africa,0.05747,Trust (Government Corruption),2015
+Madagascar,Sub-Saharan Africa,0.08124,Trust (Government Corruption),2015
+Central African Republic,Sub-Saharan Africa,0.08289,Trust (Government Corruption),2015
+Chad,Sub-Saharan Africa,0.05269,Trust (Government Corruption),2015
+Guinea,Sub-Saharan Africa,0.12139,Trust (Government Corruption),2015
+Ivory Coast,Sub-Saharan Africa,0.17922,Trust (Government Corruption),2015
+Burkina Faso,Sub-Saharan Africa,0.12832,Trust (Government Corruption),2015
+Afghanistan,Southern Asia,0.09719,Trust (Government Corruption),2015
+Rwanda,Sub-Saharan Africa,0.55191,Trust (Government Corruption),2015
+Benin,Sub-Saharan Africa,0.0801,Trust (Government Corruption),2015
+Syria,Middle East and Northern Africa,0.18906,Trust (Government Corruption),2015
+Burundi,Sub-Saharan Africa,0.10062,Trust (Government Corruption),2015
+Togo,Sub-Saharan Africa,0.10731,Trust (Government Corruption),2015
+Denmark,Western Europe,0.44453,Trust (Government Corruption),2016
+Switzerland,Western Europe,0.41203,Trust (Government Corruption),2016
+Iceland,Western Europe,0.14975,Trust (Government Corruption),2016
+Norway,Western Europe,0.35776,Trust (Government Corruption),2016
+Finland,Western Europe,0.41004,Trust (Government Corruption),2016
+Canada,North America,0.31329,Trust (Government Corruption),2016
+Netherlands,Western Europe,0.29927,Trust (Government Corruption),2016
+New Zealand,Australia and New Zealand,0.41904,Trust (Government Corruption),2016
+Australia,Australia and New Zealand,0.32331,Trust (Government Corruption),2016
+Sweden,Western Europe,0.40867,Trust (Government Corruption),2016
+Israel,Middle East and Northern Africa,0.08728,Trust (Government Corruption),2016
+Austria,Western Europe,0.21348,Trust (Government Corruption),2016
+United States,North America,0.14868,Trust (Government Corruption),2016
+Costa Rica,Latin America and Caribbean,0.10547,Trust (Government Corruption),2016
+Puerto Rico,Latin America and Caribbean,0.12275,Trust (Government Corruption),2016
+Germany,Western Europe,0.28551,Trust (Government Corruption),2016
+Brazil,Latin America and Caribbean,0.14166,Trust (Government Corruption),2016
+Belgium,Western Europe,0.26248,Trust (Government Corruption),2016
+Ireland,Western Europe,0.29754,Trust (Government Corruption),2016
+Luxembourg,Western Europe,0.35329,Trust (Government Corruption),2016
+Mexico,Latin America and Caribbean,0.18355,Trust (Government Corruption),2016
+Singapore,Southeastern Asia,0.46987,Trust (Government Corruption),2016
+United Kingdom,Western Europe,0.27399,Trust (Government Corruption),2016
+Chile,Latin America and Caribbean,0.11451,Trust (Government Corruption),2016
+Panama,Latin America and Caribbean,0.08423,Trust (Government Corruption),2016
+Argentina,Latin America and Caribbean,0.07296,Trust (Government Corruption),2016
+Czech Republic,Central and Eastern Europe,0.03986,Trust (Government Corruption),2016
+United Arab Emirates,Middle East and Northern Africa,0.35561,Trust (Government Corruption),2016
+Uruguay,Latin America and Caribbean,0.21394,Trust (Government Corruption),2016
+Malta,Western Europe,0.17554,Trust (Government Corruption),2016
+Colombia,Latin America and Caribbean,0.05399,Trust (Government Corruption),2016
+France,Western Europe,0.17808,Trust (Government Corruption),2016
+Thailand,Southeastern Asia,0.02833,Trust (Government Corruption),2016
+Saudi Arabia,Middle East and Northern Africa,0.30008,Trust (Government Corruption),2016
+Taiwan,Eastern Asia,0.0663,Trust (Government Corruption),2016
+Qatar,Middle East and Northern Africa,0.48049,Trust (Government Corruption),2016
+Spain,Western Europe,0.06137,Trust (Government Corruption),2016
+Algeria,Middle East and Northern Africa,0.16157,Trust (Government Corruption),2016
+Guatemala,Latin America and Caribbean,0.08701,Trust (Government Corruption),2016
+Suriname,Latin America and Caribbean,0.12692,Trust (Government Corruption),2016
+Kuwait,Middle East and Northern Africa,0.23669,Trust (Government Corruption),2016
+Bahrain,Middle East and Northern Africa,0.25772,Trust (Government Corruption),2016
+Trinidad and Tobago,Latin America and Caribbean,0.01241,Trust (Government Corruption),2016
+Venezuela,Latin America and Caribbean,0.08304,Trust (Government Corruption),2016
+Slovakia,Central and Eastern Europe,0.02947,Trust (Government Corruption),2016
+El Salvador,Latin America and Caribbean,0.10613,Trust (Government Corruption),2016
+Malaysia,Southeastern Asia,0.09081,Trust (Government Corruption),2016
+Nicaragua,Latin America and Caribbean,0.16292,Trust (Government Corruption),2016
+Uzbekistan,Central and Eastern Europe,0.28333,Trust (Government Corruption),2016
+Italy,Western Europe,0.02556,Trust (Government Corruption),2016
+Ecuador,Latin America and Caribbean,0.18037,Trust (Government Corruption),2016
+Belize,Latin America and Caribbean,0.10771,Trust (Government Corruption),2016
+Japan,Eastern Asia,0.18985,Trust (Government Corruption),2016
+Kazakhstan,Central and Eastern Europe,0.11132,Trust (Government Corruption),2016
+Moldova,Central and Eastern Europe,0.01903,Trust (Government Corruption),2016
+Russia,Central and Eastern Europe,0.03586,Trust (Government Corruption),2016
+Poland,Central and Eastern Europe,0.055,Trust (Government Corruption),2016
+South Korea,Eastern Asia,0.07716,Trust (Government Corruption),2016
+Bolivia,Latin America and Caribbean,0.07746,Trust (Government Corruption),2016
+Lithuania,Central and Eastern Europe,0.0182,Trust (Government Corruption),2016
+Belarus,Central and Eastern Europe,0.17457,Trust (Government Corruption),2016
+North Cyprus,Western Europe,0.16578,Trust (Government Corruption),2016
+Slovenia,Central and Eastern Europe,0.03635,Trust (Government Corruption),2016
+Peru,Latin America and Caribbean,0.05292,Trust (Government Corruption),2016
+Turkmenistan,Central and Eastern Europe,0.28467,Trust (Government Corruption),2016
+Mauritius,Sub-Saharan Africa,0.05203,Trust (Government Corruption),2016
+Libya,Middle East and Northern Africa,0.10339,Trust (Government Corruption),2016
+Latvia,Central and Eastern Europe,0.0889,Trust (Government Corruption),2016
+Cyprus,Western Europe,0.05228,Trust (Government Corruption),2016
+Paraguay,Latin America and Caribbean,0.07396,Trust (Government Corruption),2016
+Romania,Central and Eastern Europe,0.00679,Trust (Government Corruption),2016
+Estonia,Central and Eastern Europe,0.18519,Trust (Government Corruption),2016
+Jamaica,Latin America and Caribbean,0.04294,Trust (Government Corruption),2016
+Croatia,Central and Eastern Europe,0.04002,Trust (Government Corruption),2016
+Hong Kong,Eastern Asia,0.31647,Trust (Government Corruption),2016
+Somalia,Sub-Saharan Africa,0.3118,Trust (Government Corruption),2016
+Kosovo,Central and Eastern Europe,0.06547,Trust (Government Corruption),2016
+Turkey,Middle East and Northern Africa,0.12348,Trust (Government Corruption),2016
+Indonesia,Southeastern Asia,0.00322,Trust (Government Corruption),2016
+Jordan,Middle East and Northern Africa,0.13297,Trust (Government Corruption),2016
+Azerbaijan,Central and Eastern Europe,0.17914,Trust (Government Corruption),2016
+Philippines,Southeastern Asia,0.11757,Trust (Government Corruption),2016
+China,Eastern Asia,0.02745,Trust (Government Corruption),2016
+Bhutan,Southern Asia,0.1616,Trust (Government Corruption),2016
+Kyrgyzstan,Central and Eastern Europe,0.04762,Trust (Government Corruption),2016
+Serbia,Central and Eastern Europe,0.04339,Trust (Government Corruption),2016
+Bosnia and Herzegovina,Central and Eastern Europe,0,Trust (Government Corruption),2016
+Montenegro,Central and Eastern Europe,0.12721,Trust (Government Corruption),2016
+Dominican Republic,Latin America and Caribbean,0.12372,Trust (Government Corruption),2016
+Morocco,Middle East and Northern Africa,0.08404,Trust (Government Corruption),2016
+Hungary,Central and Eastern Europe,0.04472,Trust (Government Corruption),2016
+Pakistan,Southern Asia,0.1388,Trust (Government Corruption),2016
+Lebanon,Middle East and Northern Africa,0.03061,Trust (Government Corruption),2016
+Portugal,Western Europe,0.01521,Trust (Government Corruption),2016
+Macedonia,Central and Eastern Europe,0.07047,Trust (Government Corruption),2016
+Vietnam,Southeastern Asia,0.11556,Trust (Government Corruption),2016
+Somaliland Region,Sub-Saharan Africa,0.36794,Trust (Government Corruption),2016
+Tunisia,Middle East and Northern Africa,0.0817,Trust (Government Corruption),2016
+Greece,Western Europe,0.04127,Trust (Government Corruption),2016
+Tajikistan,Central and Eastern Europe,0.13509,Trust (Government Corruption),2016
+Mongolia,Eastern Asia,0.03285,Trust (Government Corruption),2016
+Laos,Southeastern Asia,0.22423,Trust (Government Corruption),2016
+Nigeria,Sub-Saharan Africa,0.0305,Trust (Government Corruption),2016
+Honduras,Latin America and Caribbean,0.06906,Trust (Government Corruption),2016
+Iran,Middle East and Northern Africa,0.0557,Trust (Government Corruption),2016
+Zambia,Sub-Saharan Africa,0.11479,Trust (Government Corruption),2016
+Nepal,Southern Asia,0.07008,Trust (Government Corruption),2016
+Palestinian Territories,Middle East and Northern Africa,0.10613,Trust (Government Corruption),2016
+Albania,Central and Eastern Europe,0.05301,Trust (Government Corruption),2016
+Bangladesh,Southern Asia,0.12583,Trust (Government Corruption),2016
+Sierra Leone,Sub-Saharan Africa,0.08196,Trust (Government Corruption),2016
+Iraq,Middle East and Northern Africa,0.13636,Trust (Government Corruption),2016
+Namibia,Sub-Saharan Africa,0.10398,Trust (Government Corruption),2016
+Cameroon,Sub-Saharan Africa,0.06126,Trust (Government Corruption),2016
+Ethiopia,Sub-Saharan Africa,0.1717,Trust (Government Corruption),2016
+South Africa,Sub-Saharan Africa,0.08415,Trust (Government Corruption),2016
+Sri Lanka,Southern Asia,0.07964,Trust (Government Corruption),2016
+India,Southern Asia,0.08722,Trust (Government Corruption),2016
+Myanmar,Southeastern Asia,0.20243,Trust (Government Corruption),2016
+Egypt,Middle East and Northern Africa,0.10393,Trust (Government Corruption),2016
+Armenia,Central and Eastern Europe,0.03616,Trust (Government Corruption),2016
+Kenya,Sub-Saharan Africa,0.06686,Trust (Government Corruption),2016
+Ukraine,Central and Eastern Europe,0.01829,Trust (Government Corruption),2016
+Ghana,Sub-Saharan Africa,0.0326,Trust (Government Corruption),2016
+Congo (Kinshasa),Sub-Saharan Africa,0.06075,Trust (Government Corruption),2016
+Georgia,Central and Eastern Europe,0.3188,Trust (Government Corruption),2016
+Congo (Brazzaville),Sub-Saharan Africa,0.09753,Trust (Government Corruption),2016
+Senegal,Sub-Saharan Africa,0.11681,Trust (Government Corruption),2016
+Bulgaria,Central and Eastern Europe,0.00615,Trust (Government Corruption),2016
+Mauritania,Sub-Saharan Africa,0.17955,Trust (Government Corruption),2016
+Zimbabwe,Sub-Saharan Africa,0.08582,Trust (Government Corruption),2016
+Malawi,Sub-Saharan Africa,0.07564,Trust (Government Corruption),2016
+Sudan,Sub-Saharan Africa,0.10039,Trust (Government Corruption),2016
+Gabon,Sub-Saharan Africa,0.09314,Trust (Government Corruption),2016
+Mali,Sub-Saharan Africa,0.13647,Trust (Government Corruption),2016
+Haiti,Latin America and Caribbean,0.14476,Trust (Government Corruption),2016
+Botswana,Sub-Saharan Africa,0.10769,Trust (Government Corruption),2016
+Comoros,Sub-Saharan Africa,0.18437,Trust (Government Corruption),2016
+Ivory Coast,Sub-Saharan Africa,0.1553,Trust (Government Corruption),2016
+Cambodia,Southeastern Asia,0.08092,Trust (Government Corruption),2016
+Angola,Sub-Saharan Africa,0.08434,Trust (Government Corruption),2016
+Niger,Sub-Saharan Africa,0.17176,Trust (Government Corruption),2016
+South Sudan,Sub-Saharan Africa,0.13015,Trust (Government Corruption),2016
+Chad,Sub-Saharan Africa,0.04952,Trust (Government Corruption),2016
+Burkina Faso,Sub-Saharan Africa,0.12533,Trust (Government Corruption),2016
+Uganda,Sub-Saharan Africa,0.06442,Trust (Government Corruption),2016
+Yemen,Middle East and Northern Africa,0.05892,Trust (Government Corruption),2016
+Madagascar,Sub-Saharan Africa,0.07506,Trust (Government Corruption),2016
+Tanzania,Sub-Saharan Africa,0.05099,Trust (Government Corruption),2016
+Liberia,Sub-Saharan Africa,0.04852,Trust (Government Corruption),2016
+Guinea,Sub-Saharan Africa,0.1192,Trust (Government Corruption),2016
+Rwanda,Sub-Saharan Africa,0.50521,Trust (Government Corruption),2016
+Benin,Sub-Saharan Africa,0.06681,Trust (Government Corruption),2016
+Afghanistan,Southern Asia,0.07112,Trust (Government Corruption),2016
+Togo,Sub-Saharan Africa,0.11587,Trust (Government Corruption),2016
+Syria,Middle East and Northern Africa,0.17233,Trust (Government Corruption),2016
+Burundi,Sub-Saharan Africa,0.09419,Trust (Government Corruption),2016

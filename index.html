@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>a2</title>
+
+    <!-- Libraries -->
+    <script src="https://code.jquery.com/jquery.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="http://d3js.org/d3.v4.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.js"></script>
+
+    <!-- Custom files -->
+    <link rel="stylesheet" href="css/main.css" />
+
+    <!-- your script file -->
+    <script src="js/main.js"></script>
+</head>
+
+<body class="container">
+    <h1>Assignment 2</h1>
+    <p>Data from the World Happiness Report.</p>
+    <p>The different variables under examination are Happiness Score, Economy, Health, Freedom, and Trust. These variables are broken down by country, and year. I choose to encode these variables using area in the form of a bubble chart because it shows how much each variable changes for each country when the filters switches between years. Area also demonstrates how similar or dissimilar countries in the same region are by providing an easy comparison, although it is difficult to see small differences. Additionally, each country in a region was encoded with a different color to help differentiate between countries. A drawback of this method is that regions with fewer countries will have larger bubbles, which implies that they are happier overall than countries in other regions.</p>
+    <p>Year: This controlling element allows users to see change over time in specific variables for different countires. I learned that each variable hardly changes, if at all, from year to year in each country. It also allows you to compare which region has more change by comparing which region has more movement year to year.</p>
+    <p>Region: This controlling element allows users to see differences between specific countries within regions and compare overall patterns between regions. It is possible to see how variables vary, and compare this across region. All regions appear to have greater variability in Trust than in Happiness Score.</p>
+    <p>Variable: This controlling element allows users to see differences between different variables that influence happiness. I learned that some variables vary much more than others. Trust appeared to vary the most, and did not seem to be associated with either a higher or lower happiness score.</p>
+    
+    <div class="btn-group" data-toggle="buttons">
+        <h3>Year</h3>
+        <select name="singleSelect" id = 'singleSelect' class="year">
+            <option class="year" value="2015" >2015</option>
+            <option value="2016" class="year">2016</option>
+        </select>
+    </div>
+
+    <div class="btn-group" data-toggle="buttons" >
+        <h3>Region</h3>
+        <select name="singleSelect1" id = 'singleSelect' class="region">
+            
+            <option value="Western Europe" class="region">Western Europe</option>
+            <option value="North America" class="region">North America</option>
+            <option value="Australia and New Zealand" class="region">Australia and New Zealand</option>
+            <option value="Middle East and Northern Africa" class="region">Middle East and Northern Africa</option>
+            <option value="Latin America and Caribbean" class="region">Latin America and Caribbean</option>
+            <option value="Southeastern Asia" class="region">Southeastern Asia</option>
+            <option value="Central and Eastern Europe" class="region">Central and Eastern Europe</option>
+            <option value="Eastern Asia" class="region">Eastern Asia</option>
+            <option value="Sub-Saharan Africa" class="region">Sub-Saharan Africa</option>
+            <option value="Southern Asia" class="region">Southern Asia</option>
+        </select>
+    </div>
+
+    <div class="btn-group" data-toggle="buttons">
+        <h3>Variable</h3>
+        <select name="singleSelect2" id = 'singleSelect'>
+            <option value="Happiness Score" >Happiness Score</option>
+            <option value="Economy (GDP per Capita)" >Economy (GDP per Capita)</option>
+            <option value="Health (Life Expectancy)" >Health (Life Expectancy)</option>
+            <option value="Freedom" >Freedom</option>
+            <option value="Trust (Government Corruption)" >Trust (Government Corruption)</option>
+        </select>
+    </div>
+
+    <div id="vis"></div>
+</body>
+
+</html>
